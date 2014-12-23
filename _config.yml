@@ -50,7 +50,8 @@ baseurl: "/blog"
 #
 
 markdown: kramdown
-input: GFM
+kramdown:
+  input:GFM
 highlighter: pygments
 permalink: /:title/
 
