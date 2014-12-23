@@ -4,6 +4,9 @@ title: Building a Multi-Room Chatroom with Socket.io and Node
 ---
 
 In this tutorial we will build a multi-room chatroom that also implements unique users leaving and connecting using Socket.io. To achieve this we will keep track of our connected users and their respected websocket on our server.
+
+Test Test
+Test test
           
 ```javascript
 var event = function() {
