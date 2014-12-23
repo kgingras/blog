@@ -239,6 +239,7 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+  font-family: "Open Sans";
 }
 
 .posts > .post:last-child {
@@ -253,7 +254,6 @@ nav {
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
-    font-style: italic;
   }
 
   .comments {
