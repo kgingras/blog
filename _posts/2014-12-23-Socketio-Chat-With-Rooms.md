@@ -27,6 +27,6 @@ io.sockets.on('connection', function (socket) {
             socket.broadcast.to(info.roomName).emit('roomChange',info.userName + " Joined the Party!");
 
         });
-        ```
+```
 
 Here we create the socket on the server.
