@@ -27,7 +27,7 @@ In this tutorial we will build a multi-room chatroom that also implements unique
 
             socket.broadcast.to(info.roomName).emit('roomChange',info.userName + " Joined the Party!");
 
-        });
-```
+          });
+          ```
 
 Here we create the socket on the server.
