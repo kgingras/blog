@@ -42,31 +42,3 @@ app.get('*', function(req, res) {
 ```
 
 Now point your browser to localhost:8080 were our server is listening. You should be greated with our prepared message.
-
-```javascript
-io.sockets.on('connection', function (socket) {
-
-        socketList.push(socket);
-
-        io.emit('new',socketList.length);
-
-        socket.on('joinGroup', function (info) {
-            var i = socketList.indexOf(socket);
-            socketList[i].roomName = info.roomName;
-            socketList[i].userName = info.userName;
-            socket.join(info.roomName);
-
-            data[info.roomName].users.push({
-                name:info.userName,
-                socketIndex: i,
-                songTitle:"",
-                songURL:null,
-                songLink:""
-                });
-
-            socket.emit('joined',{});
-            socket.broadcast.to(info.roomName).emit('roomChange',info.userName + " joined");
-        });
-```
-
-Here we create the socket on the server.
