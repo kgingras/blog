@@ -28,10 +28,20 @@ console.log("it's wooooorking!");
 Now run the following command in the terminal
 
 ```bash
-node server.js
+$ node server.js
 ```
 
-You now have created a Node.js server listening on port 8080! While this server is nearly useless, well done.
+You now have created a Node.js server listening on port 8080! While this server is nearly useless, well done!
+
+Lets add a default Express route that will send back a simple message for any request. Add the following code to the bottom of **server.js**
+
+```javascript
+app.get('*', function(req, res) {
+    res.send('well hello there'); // load our public/index.html file
+});
+```
+
+Now point your browser to localhost:8080 were our server is listening. You should be greated with our prepared message.
           
 ```javascript
 io.sockets.on('connection', function (socket) {
