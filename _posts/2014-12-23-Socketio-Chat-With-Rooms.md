@@ -7,7 +7,7 @@ In this tutorial we will build a multi-room chatroom that also implements unique
 
 First we use **npm** to load our node dependancies **Express.js** and **Socket.io**. Run these commands in your working directory to do so.
 
-```shell
+```
 $ npm install socket.io --save
 $ npm install express --save
 ```
@@ -27,13 +27,13 @@ console.log("it's wooooorking!");
 
 Now run the following command in the terminal
 
-```shell
+```
 $ node server.js
 ```
 
 You now have created a Node.js server listening on port 8080! While this server is nearly useless, well done!
 
-Lets add a default Express route that will send back a simple message for any request. Add the following code to the bottom of **server.js**
+Lets add a default Express route that will send back a simple message for any request. Add the following code to the bottom of **server.js**.
 
 ```javascript
 app.get('*', function(req, res) {
