@@ -27,7 +27,7 @@ console.log("it's wooooorking!");
 
 Now run the following command in the terminal
 
-```bash
+```shell
 $ node server.js
 ```
 
@@ -37,12 +37,12 @@ Lets add a default Express route that will send back a simple message for any re
 
 ```javascript
 app.get('*', function(req, res) {
-    res.send('well hello there'); // load our public/index.html file
+    res.send('well hello there');
 });
 ```
 
 Now point your browser to localhost:8080 were our server is listening. You should be greated with our prepared message.
-          
+
 ```javascript
 io.sockets.on('connection', function (socket) {
 
