@@ -7,7 +7,7 @@ In this tutorial we will build a multi-room chatroom that also implements unique
 
 First we use **npm** to load our node dependancies **Express.js** and **Socket.io**. Run these commands in your working directory to do so.
 
-```bash
+```shell
 $ npm install socket.io --save
 $ npm install express --save
 ```
