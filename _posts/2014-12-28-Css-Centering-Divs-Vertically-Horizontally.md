@@ -1,6 +1,6 @@
 ---
 layout:post
-title:Centering Vertically and Horizontally Css
+title: Centering Vertically and Horizontally Css
 ---
 
 For any beginner in **Front End Development**, centering is a large deal. 
