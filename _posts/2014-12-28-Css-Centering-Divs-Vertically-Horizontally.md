@@ -11,7 +11,7 @@ I'll brake it up into seperate pieces first and then merge them together. Enjoy!
 
 Css has an awesome magical entity called *auto* which will set the right margin depending on other factors.
 
-```Css
+```CSS
 div {
   width:100px;
   height:100px;
@@ -19,4 +19,8 @@ div {
 }
 ```
 
-This gives us a centered div of our desired width and height.
+This gives us a horizontally centered div of our desired width and height.
+
+**Centering Vertically**
+
+Centering Vertically requires a little more work than what we did above. 
