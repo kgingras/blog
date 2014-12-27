@@ -10,8 +10,6 @@ In this post we will build and review a simple Node.js server using ExpressJS. W
 
 You will need to have Node and npm installed in order to load ExpressJS and run our server locally.
 
-**The Server**
-
 First we use **npm** to load our node dependancies **Express.js** and **Socket.io**. Run these commands in your working directory to do so.
 
 ```
@@ -19,21 +17,21 @@ $ npm install socket.io --save
 $ npm install express --save
 ```
 
-npm will find the package by name and save it to your node dependencies in the directory **/node_modules**.
+**install** will find the package by name and save it to your node dependencies in the directory **/node_modules**. The **--save** option saves the package to your dependencies. There are other options for saving to enhance your workflow, check out the [npm install documention](https://docs.npmjs.com/cli/install).
 
-Now we will create our Node.js server in a file called **server.js**
+**The Server**
+
+Lets create our Node.js server in a file called **server.js**
 
 ```javascript
-var port = process.env.PORT || 8080;
 var app = require('express')();
 var server = require('http').createServer(app);
 
 // listen on port 8080
-server.listen(port);
-console.log("it's wooooorking!");
+server.listen(8080;
 ```
 
-Now run the following command in the terminal
+Now run the server locally.
 
 ```
 $ node server.js
