@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Christmas in Code
+category: personal
 ---
 
 Metaphysics is the study of the most general features of reality, such as existence, time, the relationship between mind and body, objects and their properties, wholes and their parts, events, processes, and causation. Traditional branches of metaphysics include cosmology, the study of the world in its entirety, and ontology, the study of being.
