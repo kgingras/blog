@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About Me and this Blog
+category: personal 
 ---
 
 Hello, 
