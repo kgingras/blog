@@ -4,9 +4,9 @@ title: Sending Emails from Github Pages
 ---
 As I was setting up my personal website with Github Pages (which is awesome), I ran into the issue of creating a contact form that I could receive emails from. Before, I used a service set up by umich, but it became a bit hard to work with and as you may know, Github Pages does not provide any support for server side scripting ie. PHP or Node.js.
 
-After searching far and wide, I came across [this](http://sebastien.saunier.me/blog/2014/04/15/you-do-not-need-a-database-for-your-contact-form.html). An awesome blog post about [formspree.io](formspree.io).
+After searching far and wide, I came across [this](http://sebastien.saunier.me/blog/2014/04/15/you-do-not-need-a-database-for-your-contact-form.html). An awesome blog post about [formspree.io](formspree.io), a free email service that lets you build simple forms to send to a single address.
 
-[formspree.io](formspree.io) makes it incredibly easy to allow my static Github Pages to send emails to myself. As seen on their site, just a few lines of code is all it takes.
+[formspree.io](formspree.io) makes it incredibly easy to allow your static Github Pages to send emails to you. As seen on their site, just a few lines of code is all it takes.
 
 ```javascript
 $.ajax({
