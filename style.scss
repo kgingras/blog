@@ -69,7 +69,8 @@ p {
 }
 
 a {
-  color: #aaaaaa;
+  color: #000;
+  font-weight:700;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
