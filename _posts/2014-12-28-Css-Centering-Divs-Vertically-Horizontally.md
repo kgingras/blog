@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Centering Vertically and Horizontally with Css
+category: code
 ---
 
 For any beginner in **Front End Development**, centering is a large deal. It's tough to find a solution you understand and can count on to work in the right situation. After pouring over the web myself, I present to you, the best way I have found for centering HTML elements.
