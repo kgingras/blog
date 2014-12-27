@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sending Emails from Github Pages
-permalink: date
 ---
 As I was setting up my personal website with Github Pages (which is awesome), I ran into the issue of creating a contact form that I could receive emails from. Before, I used a service set up by umich, but it became a bit hard to work with and as you may know, Github Pages does not provide any support for server side scripting ie. PHP or Node.js.
 
