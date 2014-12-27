@@ -6,7 +6,7 @@ category: code
 
 In this post we will build and review a simple Node.js server using ExpressJS. When I first began working with Node.js, I was amazed by how simple it was but I still didn't fully understand what was going. In this post, we will go over each line.
 
-**Prerequisites**
+##Prerequisites
 
 You will need to have Node and npm installed in order to load ExpressJS and run our server locally.
 
@@ -19,7 +19,7 @@ $ npm install express --save
 
 **install** will find the package by name and save it to your node dependencies in the directory **/node_modules**. The **--save** option saves the package to your dependencies. There are other options for saving to enhance your workflow, check out the [npm install documention](https://docs.npmjs.com/cli/install).
 
-**The Server**
+##The Server
 
 Lets create our Node.js server in a file called **server.js**
 
