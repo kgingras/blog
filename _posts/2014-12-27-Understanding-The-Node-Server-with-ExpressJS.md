@@ -19,6 +19,8 @@ $ npm install socket.io --save
 $ npm install express --save
 ```
 
+npm will find the package by name and save it to your node dependencies in the directory **/node_modules**.
+
 Now we will create our Node.js server in a file called **server.js**
 
 ```javascript
