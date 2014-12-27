@@ -4,7 +4,7 @@ title: About Me and this Blog
 category: personal 
 ---
 
-
+![ME](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/10614136_929496620401134_7199184049676224115_n.jpg?oh=d051af7b2ba40d7c2fed37650ae52ca1&oe=55427595&__gda__=1426007836_33ad9a3bad49b22097bf470a55e726ba)
 
 My name is Daniel Wilson and I am a developer, designer, and overall dingo. I grew up in Traverse City, Michigan with the greatest friends and family one could ask for.
 
