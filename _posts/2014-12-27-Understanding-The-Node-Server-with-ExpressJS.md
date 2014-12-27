@@ -1,10 +1,16 @@
 ---
 layout: post
-title: Building a Multi-Room Chatroom with Socket.io and Express
+title: Understanding a Simple Node.js Server with ExpressJS
 category: code 
 ---
 
-In this tutorial we will build a multi-room chatroom that also implements unique users leaving and connecting using Socket.io. To achieve this we will keep track of our connected users and their respected websocket on our server. 
+In this post we will build and review a simple Node.js server using ExpressJS. When I first began working with Node.js, I was amazed by how simple it was but I still didn't fully understand what was going. In this post, we will go over each line.
+
+**Prerequisites**
+
+You will need to have Node and npm installed in order to load ExpressJS and run our server locally.
+
+**The Server**
 
 First we use **npm** to load our node dependancies **Express.js** and **Socket.io**. Run these commands in your working directory to do so.
 
@@ -19,7 +25,6 @@ Now we will create our Node.js server in a file called **server.js**
 var port = process.env.PORT || 8080;
 var app = require('express')();
 var server = require('http').createServer(app);
-var io = require('socket.io')(server);
 
 // listen on port 8080
 server.listen(port);
