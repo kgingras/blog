@@ -7,7 +7,7 @@ In this tutorial we will build a multi-room chatroom that also implements unique
 
 First we use **npm** to load our node dependancies **Express.js** and **Socket.io**. Run these commands in your working directory to do so.
 
-```shell
+```
 $ npm install socket.io --save
 $ npm install express --save
 ```
@@ -27,36 +27,28 @@ console.log("it's wooooorking!");
 
 Now run the following command in the terminal
 
-```bash
-node server.js
+```
+$ node server.js
 ```
 
-You now have created a Node.js server listening on port 8080! While this server is nearly useless, well done.
-          
+You now have created a Node.js server listening on port 8080! While this server is nearly useless, well done!
+
+Lets add a default Express route that will send back a simple message for any request. Add the following code to the bottom of **server.js**.
+
 ```javascript
-io.sockets.on('connection', function (socket) {
-
-        socketList.push(socket);
-
-        io.emit('new',socketList.length);
-
-        socket.on('joinGroup', function (info) {
-            var i = socketList.indexOf(socket);
-            socketList[i].roomName = info.roomName;
-            socketList[i].userName = info.userName;
-            socket.join(info.roomName);
-
-            data[info.roomName].users.push({
-                name:info.userName,
-                socketIndex: i,
-                songTitle:"",
-                songURL:null,
-                songLink:""
-                });
-
-            socket.emit('joined',{});
-            socket.broadcast.to(info.roomName).emit('roomChange',info.userName + " joined");
-        });
+app.get('*', function(req, res) {
+    res.send('well hello there');
+});
 ```
 
-Here we create the socket on the server.
+Now point your browser to localhost:8080 were our server is listening. You should be greated with our prepared message.
+
+That's cool but lets bump it up a notch. Create a file called **index.html** that we will send to clients rather than just simple text.
+
+```html
+<body>
+    <h1>Hello Folks</h1>
+</body>
+```
+
+to be continued...
