@@ -1,6 +1,6 @@
 ---
-layout: post
+layout: postbare
 title: Projects
 ---
 
-Wow look at that
+
