@@ -280,9 +280,14 @@ footer {
 }
 
 .linkk {
-  width:100%;
-  text-align:center;
-  padding:3px 0;
+width: 100%;
+text-align: center;
+padding: 5px 0;
+background: #F1F1F1;
+margin-bottom: 8px;
+border-left: 5px solid #8C8C8C;
+font-weight: 700;
+cursor: pointer;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
