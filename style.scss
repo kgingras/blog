@@ -153,7 +153,6 @@ img {
   margin-bottom: 0px;
   float:left;
   width:25%;
-  position:fixed;
 }
 
 .masthead {
@@ -167,7 +166,7 @@ img {
 
 .site-avatar {
   float: left;
-  width: 50%;
+  width: 100%;
   padding:8px;
   @include mobile {
     float: none;
