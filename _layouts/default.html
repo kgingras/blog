@@ -64,3 +64,12 @@
     {% include analytics.html %}
   </body>
 </html>
+<script>
+  window.addEventListener('resize', function(){
+
+    var $el = $('.wrapper-masthead');
+
+    $el.width( $el.parent().outerWidth() * .25 );
+
+})
+</script>
