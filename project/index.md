@@ -11,8 +11,9 @@ title: Projects
 
 [Delivice](https://delivice.github.io) is a landing page I created for a local Ann Arbor startup providing grocery delivery for students and residence. I did all the design and development associated with the page as well as the icon design. They're a great group of people and I hope to do more with them in the future.
 
+##Smaller Projects
 
-
+[Michigan Today](http://goo.gl/zqblW9) was my first ever application created. Built at my first hackathon. It was extremely simple but showed me the unlimited possibilities that come from development. It inspired me to learn more and work harder.
 
 
 
