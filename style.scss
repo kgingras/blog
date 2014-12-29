@@ -24,6 +24,14 @@ body {
   width:100%;
   margin:0 auto;
   max-width:950px;
+  display:table;
+}
+
+.foot {
+  height:100px;
+  margin-top:30px;
+  border-top:1px solid #e1e1e1;
+  background:#f1f1f1;
 }
 
 .container {
