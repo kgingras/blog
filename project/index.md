@@ -15,5 +15,14 @@ title: Projects
 
 [Michigan Today](http://goo.gl/zqblW9) was my first ever application created. Built at my first hackathon. It was extremely simple but showed me the unlimited possibilities that come from development. It inspired me to learn more and work harder.
 
+##Work Experience
 
+**Lead Web Developer**, *Delivice*
+ding grocery delivery for students and residence. I did all the design and developme
+
+**Web Developer Intern**, *Hagerty Collector Car Insurance*
+ding grocery delivery for students and residence. I did all the design and developme
+
+**Cook**, *That'sa Pizza*
+ding grocery delivery for students and residence. I did all the design and developme
 
