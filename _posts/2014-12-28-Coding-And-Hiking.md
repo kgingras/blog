@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter Break in Northern Michigan
-catagories:
+categories:
   - life
 ---
 
