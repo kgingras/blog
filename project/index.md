@@ -1,5 +1,5 @@
 ---
-layout: postbare
+layout: post
 title: Projects
 ---
 
