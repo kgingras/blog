@@ -1,6 +1,6 @@
 ---
 layout: post
-title Why Everyone Should Learn to Code
+title: Why Everyone Should Learn to Code
 categories:
   - life
 ---
