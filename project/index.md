@@ -18,7 +18,6 @@ title: Projects
 ##Work Experience
 
 **Lead Web Developer**, *Delivice*
-
 ding grocery delivery for students and residence. I did all the design and developme
 
 **Web Developer Intern**, *Hagerty Collector Car Insurance*
