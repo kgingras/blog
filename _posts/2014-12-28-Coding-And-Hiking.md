@@ -5,4 +5,4 @@ categories:
   - life
 ---
 
-I can't call myself a nature enthusiest, but I do love the outdoors. 
+Growing up in Northern Michigan is a great blessing which I definitely take for granted. 
