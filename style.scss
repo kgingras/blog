@@ -18,7 +18,12 @@ html {
 }
 
 body {
-	background: $white;
+  margin:0;
+  padding:0;
+}
+
+.bd {
+  background: $white;
   font: 18px/1.4 "Open Sans";
   color: $darkGray;
   width:100%;
