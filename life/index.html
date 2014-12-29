@@ -5,9 +5,11 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     {% if post.categories contains 'life' %}
-      <article class="post">    
+      <article class="post" style="border-bottom:none; padding-bottom:0;">    
         
-        <h1><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
+        <h1><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+        <div class="sub">{{ post.date | date: "%B %e, %Y" }}</div>
+    </h1>
         
       </article>
     {% endif %}  
