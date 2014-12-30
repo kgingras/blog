@@ -27,11 +27,11 @@ My father taught me the lesson that no matter what you do or how hard you work, 
 
 I believe the computer science mindset can change the way you view life and inspire you to work harder to make the world a better place. If your completely new and want to try it out, check out some of the links below to get started.
 
-+[CodeAcademy](http://codecademy.com)
+  -[CodeAcademy](http://codecademy.com)
 
-+[CodeSchool](https://codeschool.com)
+  -[CodeSchool](https://codeschool.com)
 
-+[HackerRank](https://hackerrank.com)
+  -[HackerRank](https://hackerrank.com)
 
 
 
