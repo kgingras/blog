@@ -18,13 +18,13 @@ title: Projects
 ##Work Experience
 
 **Lead Web Developer**, *Delivice*
-ding grocery delivery for students and residence. I did all the design and developme
+
+Designed and Developed landing page, currently working on migrating existing web application to a new platform.
 
 **Web Developer Intern**, *Hagerty Collector Car Insurance*
 
-ding grocery delivery for students and residence. I did all the design and developme
+At Hagerty developed an automated testing framework and application using Selenium-WebDriver that is used to this day. It was a great opportunity to see Software Development in a business centered environment and work with amazingly talented Developers and QA engineers. 
 
 **Cook**, *That'sa Pizza*
 
-ding grocery delivery for students and residence. I did all the design and developme
-
+While this work was suprisingly not technical, working in a pizza kitchen gave me a true appreciation for hard work and allowed me to meet incredible and inspirational people who have affected my life for the better in so many ways.

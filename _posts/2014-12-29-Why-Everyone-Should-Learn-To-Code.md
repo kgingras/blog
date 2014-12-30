@@ -17,13 +17,24 @@ The moment I realized this simple fact my world changed. The ultimate goal of "C
 
 ##Learning to Learn
 
-My favorite part of the Software Development field/area/space is how open and accessable everything is. 
+My favorite part of the Software Development field/area/space is how open and accessable everything is. The expanse of information on all **Stack Exchange** sites is astounding. I would wager if you're an average developer with a problem, there is a 80% chance your solution is somewhere on **Stack Overflow**. 
+
+Technology in general is a fast moving edge and to stay relevent one must be constantly learning. 
 
 ##Things I've Learned
 
 My father taught me the lesson that no matter what you do or how hard you work, there will always be someone better than you, and that's perfectly fine. Especially at an awesome school like Michigan. There are kids in my classes who could code circles around me and I accept that. 
 
-Because if you make developing soley about winning, then you've already lost.
+##Conclusion
+
+I believe the computer science mindset can change the way you view life and inspire you to work harder to make the world a better place. If your completely new and want to try it out, check out some of the links below to get started.
+
++(CodeAcademy)[http://codecademy.com]
+
++(CodeSchool)[https://codeschool.com]
+
++(HackerRank)[https://hackerrank.com]
+
 
 
 
