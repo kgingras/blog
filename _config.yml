@@ -52,6 +52,7 @@ baseurl: "/blog"
 markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
+  
 
 pygments: true
 
