@@ -9,13 +9,13 @@ For a brief intro, Settlers of Catan is a very popular board game. In this post 
 
 #Critical Points
 
-###Picking you Inital Settlements
+###Picking your Inital Settlements
 
 The best thing you can do in the beginning is maximize the good and minimize the bad. Getting boxed in early will make your chances muy mal so try to spread your settlments out in an effort to claim a part of the board or enable you sort of "fill in the line" between the two and snag longest road first.
 
-In terms of role numbers, it's can be benifitial to find a nice range of numbers rather than a high probability jackpot. This will give you a more consistent stream of resources rather than a massive payout after 7 years of drought. 
+* **Role Numbers** - It can be benifitial to find a nice range of numbers rather than a high probability jackpot. This will give you a more consistent stream of resources rather than a massive payout after 7 years of drought. 
 
-If you can solidify yourself as the source of one essential resource, all the other players will be at your mercy. Basically, the "Brick Guy" determines the rate at which the game progresses. I guess if you can **Monopolize** a single resource, go for it!
+* **Monopolies** - If you can solidify yourself as the source of one essential resource, all the other players will be at your mercy. Basically, the "Brick Guy" determines the rate at which the game progresses. 
 
 ###Diversify your Play
 
