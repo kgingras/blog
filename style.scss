@@ -180,6 +180,11 @@ img {
   float:left;
   width:15%;
   position:fixed;
+
+  @include mobile {
+    position:initial;
+    width:100%;
+  }
 }
 
 .masthead {
