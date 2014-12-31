@@ -17,7 +17,7 @@ In terms of role numbers, it's can be benifitial to find a nice range of numbers
 
 If you can solidify yourself as the source of one essential resource, all the other players will be at your mercy. Basically, the "Brick Guy" determines the rate at which the game progresses. I guess if you can **Monopolize** a single resource, go for it!
 
-####Diversify your Play
+###Diversify your Play
 
 While it's good to play a strategy, a balance of all game elements can be essential. I try to follow some of these helpful tips.
 
