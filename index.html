@@ -13,7 +13,7 @@ layout: default
           <div class="entry">
         {{ post.content }}
       </div>
-        
+          {% include disqus.html disqus_identifier=page.disqus_identifier %}
       </article>
   {% endfor %}
 </div>
