@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Everyone Should Learn to Code
-categories:
+tags:
   - life
 ---
 
