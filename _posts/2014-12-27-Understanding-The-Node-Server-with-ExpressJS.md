@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Understanding a Simple Node.js Server with ExpressJS
-category: code 
+tags: 
+    - code 
 ---
 
 In this post we will build and review a simple Node.js server using ExpressJS. When I first began working with Node.js, I was amazed by how simple it was but I still didn't fully understand what was going. In this post, we will go over each line.
