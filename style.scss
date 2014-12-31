@@ -182,7 +182,15 @@ img {
   position:fixed;
 
   @include mobile {
-    position:initial;
+    position:relative;
+    width:100%;
+  }
+}
+
+#main {
+  width:75%;
+  float:right;
+  @include mobile {
     width:100%;
   }
 }
