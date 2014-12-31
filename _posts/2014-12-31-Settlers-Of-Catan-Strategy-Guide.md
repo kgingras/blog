@@ -2,7 +2,7 @@
 layout: post
 title: Settlers of Catan Strategy Guide
 tags:
-	- life
+- life
 ---
 
 For a brief intro, Settlers of Catan is a very popular board game. In this post I will go over some lessons I have learned from playing the game and strategies I employ.
