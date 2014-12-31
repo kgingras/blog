@@ -21,9 +21,9 @@ If you can solidify yourself as the source of one essential resource, all the ot
 
 While it's good to play a strategy, a balance of all game elements can be essential. I try to follow some of these helpful tips.
 
-**Build at least four Settlements** - This is key when the board becomes locked up and your best hope for points is building cities. These are points you can count on compared to depending on Dev Card points or fighting someone for longest road.
+* **Build at least four Settlements** - This is key when the board becomes locked up and your best hope for points is building cities. These are points you can count on compared to depending on Dev Card points or fighting someone for longest road.
 
-**Always have a Knight ready** - If your having success due to a certain tile, the players will most likely mob you in an effort to shut down your imports and it can be a huge asset to be able to move it right back.
+* **Always have a Knight ready** - If your having success due to a certain tile, the players will most likely mob you in an effort to shut down your imports and it can be a huge asset to be able to move it right back.
 
 ###Changing with the Game
 
