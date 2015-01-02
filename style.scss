@@ -184,6 +184,7 @@ img {
     position:relative;
     width:100%;
     background:#F0F0F0;
+    border:1px solid #e1e1e1;
   }
 }
 
@@ -259,7 +260,7 @@ img {
   text-align:center;
   
   @include mobile {
-    margin: 3px 0;
+    display:none;
   }
 }
 
