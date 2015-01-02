@@ -335,6 +335,13 @@ footer {
     }
 }
 
+#topper {
+  margin-top:21px;
+  @include mobile {
+    margin: 0;
+  }
+}
+
 .linkk {
 width: 100%;
 text-align: center;
