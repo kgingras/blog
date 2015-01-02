@@ -324,11 +324,15 @@ nav {
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
   display:none;
+
 }
 
 footer {
   padding-top: 20px;
   text-align: center;
+    @include mobile {
+      display:none;
+    }
 }
 
 .linkk {
@@ -339,6 +343,11 @@ border: 1px solid #e1e1e1;
 margin-bottom: 8px;
 font-weight: 700;
 cursor: pointer;
+  @include mobile {
+    border:none;
+    float:left;
+    width:33.3333%;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
