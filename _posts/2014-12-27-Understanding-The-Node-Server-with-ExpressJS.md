@@ -99,6 +99,14 @@ Now with a fully working Node server you can make any changes to your index.html
 
 ##Full Files
 
+**File Structure**
+
+```
+- server.js
+- /public
+	- index.html
+```
+
 **server.js**
 
 ```javascript
