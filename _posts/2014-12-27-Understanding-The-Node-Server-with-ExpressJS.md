@@ -39,7 +39,7 @@ The next line, running **express()** returns a JS function that is passed to Nod
 
 The last line simply binds the object to your current host and port specified. Here we are listening for requests on **Port 8080**.
 
-#API Routes
+##API Routes
 
 Lets add some routes to our server.js file and give our server some purpose. Add the following lines to the bottom of **server.js**.
 
@@ -51,14 +51,47 @@ app.get('*', function(req, res) {
 
 This route will catch any **GET Request** to our host on port 8080 and send back the text **"Hello World"**. 
 
-**Try it out** by running the following command and then pointing your browser to **Localhost:8080**.
+**Try it out** by running the following command and then pointing your browser to **localhost:8080**.
 
-```shell
+```
 $ node server.js
 ```
 
 You should be greated by our message above.
 
 Express allows you to catch specific routes and requests and send back files, JSON data, and much more.
+
+When we point our browser to **localhost:8080** it makes an empty GET Request to our server and the text is sent back. 
+
+Let's add a simple HTML file to make our server useful. 
+
+Because we are sending a static file, we need to get the file from an **absolute path**. Create a directory called **/public** to put our html file in. 
+
+In **/public**, create a file called index.html shown below for our server to send to clients.
+
+```html
+<h1>
+	Hello World 
+</h1>
+```
+
+For Express to send a static file to a client it requires a absolute path to the file.
+
+In order to get an absolute path we will need to do some path manipulation in our routes. To make this possible add the following line to **server.js** anywhere before the Express Route.
+
+```javascript
+var path = require('path');
+```
+
+**Path** is a native node module that allows us to do some path manipulation. Now, change your **API Route** to the following code.
+
+```javascript
+app.get('*', function(req, res) {
+	res.sendFile(path.join(__dirname, '../public', 'index.html'));
+});
+```
+
+Now re-run your server with the command above and browse to localhost:8080.
+
 
 
