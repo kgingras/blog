@@ -61,12 +61,3 @@ You should be greated by our message above.
 
 Express allows you to catch specific routes and requests and send back files, JSON data, and much more.
 
-Now point your browser to localhost:8080 were our server is listening. You should be greated with our prepared message.
-
-That's cool but lets bump it up a notch. Create a file called **index.html** that we will send to clients rather than just simple text.
-
-```html
-<body>
-    <h1>Hello Folks</h1>
-</body>
-```
