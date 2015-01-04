@@ -1,6 +1,7 @@
 ---
-layout: postb
+layout: page
 title: Projects
+permalink: /project/
 ---
 
 ##The Big Ones
