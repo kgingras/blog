@@ -22,31 +22,34 @@ $ npm install express --save
 
 ##The Server
 
-Lets create our Node.js server in a file called **server.js**
+Lets create our Node.js server in a file called **server.js**. This is the same file used in the [ExpressJS API Docs](http://expressjs.com/api.html).
 
 ```javascript
-var app = require('express')();
-var server = require('http').createServer(app);
+var express = require('express');
+var app 	= express();
 
-// listen on port 8080
-server.listen(8080;
+app.listen(8080);
 ```
 
-Now run the server locally.
+This is all you need to start your Node server, but let's go a little deeper on what's going on here.
+
+**Reqiure**, from a high level, is used to load Node libraries and modules. In the first line we are loading the **ExpressJS** Module into a the variable **express**.
+
+The next line, running **express()** returns a JS function that is passed to Node's HTTP servers as a callback to handle requests. This enables you to write functions for api routes using our **app** variable.
+
+The last line simply binds the object to your current host and port specified. Here we are listening for requests on **Port 8080**.
+
+#API Routes
+
+Lets add some routes to our server.js file and give our server some purpose. Add the following lines to the bottom of **server.js**.
 
 ```
-$ node server.js
-```
-
-You now have created a Node.js server listening on port 8080! While this server is nearly useless, well done!
-
-Lets add a default Express route that will send back a simple message for any request. Add the following code to the bottom of **server.js**.
-
-```javascript
 app.get('*', function(req, res) {
-    res.send('well hello there');
+	res.send('Hello World');
 });
 ```
+
+This route will catch any **GET Request** to our host on port 8080 and send back the text **"Hello World"**. 
 
 Now point your browser to localhost:8080 were our server is listening. You should be greated with our prepared message.
 
