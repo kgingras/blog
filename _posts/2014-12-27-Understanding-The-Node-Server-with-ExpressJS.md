@@ -43,13 +43,23 @@ The last line simply binds the object to your current host and port specified. H
 
 Lets add some routes to our server.js file and give our server some purpose. Add the following lines to the bottom of **server.js**.
 
-```
+```javascript
 app.get('*', function(req, res) {
 	res.send('Hello World');
 });
 ```
 
 This route will catch any **GET Request** to our host on port 8080 and send back the text **"Hello World"**. 
+
+**Try it out** by running the following command and then pointing your browser to **Localhost:8080**.
+
+```shell
+$ node server.js
+```
+
+You should be greated by our message above.
+
+Express allows you to catch specific routes and requests and send back files, JSON data, and much more.
 
 Now point your browser to localhost:8080 were our server is listening. You should be greated with our prepared message.
 
@@ -60,5 +70,3 @@ That's cool but lets bump it up a notch. Create a file called **index.html** tha
     <h1>Hello Folks</h1>
 </body>
 ```
-
-to be continued...
