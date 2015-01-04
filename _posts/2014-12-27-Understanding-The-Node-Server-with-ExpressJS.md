@@ -100,6 +100,7 @@ Now with a fully working Node server you can make any changes to your index.html
 ##Full Files
 
 **server.js**
+
 ```javascript
 var express = require('express');
 var path 	= require('path');
