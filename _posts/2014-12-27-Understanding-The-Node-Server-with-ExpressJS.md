@@ -83,7 +83,7 @@ In order to get an absolute path we will need to do some path manipulation in ou
 var path = require('path');
 ```
 
-**Path** is a native node module that allows us to do some path manipulation. Now, change your **API Route** to the following code.
+**Path** is a native Node module that allows us to do some path manipulation. Now, change your **API Route** to the following code.
 
 ```javascript
 app.get('*', function(req, res) {
@@ -91,7 +91,35 @@ app.get('*', function(req, res) {
 });
 ```
 
-Now re-run your server with the command above and browse to localhost:8080.
+Now re-run your server with the command above and browse to **localhost:8080**. If you did everything right you should be greeted by the message in index.html!
+
+##Moving Forward
+
+Now with a fully working Node server you can make any changes to your index.html file, add some styling, and make it live for everyone to use!
+
+##Full Files
+
+**server.js**
+```javascript
+var express = require('express');
+var path 	= require('path');
+var app 	= express();
+
+app.listen(8080);
+
+app.get('*', function(req, res) {
+	res.sendFile(path.join(__dirname, '../public', 'index.html'));
+});
+```
+
+**index.html**
+
+```html
+<h1>
+	Hello World 
+</h1>
+```
+
 
 
 
