@@ -11,7 +11,7 @@ In this post we will build and review a simple Node.js server using ExpressJS. W
 
 You will need to have Node and npm installed in order to load ExpressJS and run our server locally.
 
-First we use **npm** to load our node dependancy **Express.js**. Run this command in your working directory to do so.
+First we use **npm** to load our node dependency **Express.js**. Run this command in your working directory to do so.
 
 ```
 $ npm install express --save
@@ -19,11 +19,11 @@ $ npm install express --save
 
 **install** will find the package by name and save it to your node dependencies in the directory **/node_modules**. The **--save** option saves the package to your dependencies in the file **package.json** located inside **/node_modules**. --save isn't required but it does a little extra work for you.
 
-There are other options for saving to enhance your workflow, check out the [npm install documention](https://docs.npmjs.com/cli/install).
+There are other options for saving to enhance your work-flow, check out the [npm install documentation](https://docs.npmjs.com/cli/install).
 
 ##The Server
 
-Lets create our Node.js server in a file called **server.js**. This is the same file used in the [ExpressJS API Docs](http://expressjs.com/api.html).
+Lets create our Node.js server in a file called **server.js**. This is the same file used in the [ExpressJS API Docs](http://expressjs.com/API.html).
 
 ```javascript
 var express = require('express');
@@ -34,9 +34,9 @@ app.listen(8080);
 
 This is all you need to start your Node server, but let's go a little deeper on what's going on here.
 
-**Reqiure**, from a high level, is used to load Node libraries and modules. In the first line we are loading the **ExpressJS** Module into a the variable **express**.
+**Require**, from a high level, is used to load Node libraries and modules. In the first line we are loading the **ExpressJS** Module into a the variable **express**.
 
-The next line, running **express()** returns a JS function that is passed to Node's HTTP servers as a callback to handle requests. This enables you to write functions for api routes using our **app** variable.
+The next line, running **express()** returns a JS function that is passed to Node's HTTP servers as a callback to handle requests. This enables you to write functions for API routes using our **app** variable.
 
 The last line simply binds the object to your current host and port specified. Here we are listening for requests on **Port 8080**.
 
@@ -58,7 +58,7 @@ This route will catch any **GET Request** to our host on port 8080 and send back
 $ node server.js
 ```
 
-You should be greated by our message above.
+You should be greeted by our message above.
 
 Express allows you to catch specific routes and requests and send back files, JSON data, and much more.
 
