@@ -61,6 +61,8 @@ $ node server.js
 
 You should be greeted by our message above.
 
+##Sending HTML Files
+
 Express allows you to catch specific routes and requests and send back files, JSON data, and much more.
 
 When we point our browser to **localhost:8080** it makes an empty GET Request to our server and the text is sent back. 
