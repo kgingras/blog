@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Using Heroku to Host Node Apps for Free
+tags:
+	- code
 ---
 
 Hello, in this tutorial we will go over how you can put your Node App up for the world to use for free. 
