@@ -17,7 +17,9 @@ First we use **npm** to load our node dependancy **Express.js**. Run this comman
 $ npm install express --save
 ```
 
-**install** will find the package by name and save it to your node dependencies in the directory **/node_modules**. The **--save** option saves the package to your dependencies. There are other options for saving to enhance your workflow, check out the [npm install documention](https://docs.npmjs.com/cli/install).
+**install** will find the package by name and save it to your node dependencies in the directory **/node_modules**. The **--save** option saves the package to your dependencies in the file **package.json** located inside **/node_modules**. --save isn't required but it does a little extra work for you.
+
+There are other options for saving to enhance your workflow, check out the [npm install documention](https://docs.npmjs.com/cli/install).
 
 ##The Server
 
