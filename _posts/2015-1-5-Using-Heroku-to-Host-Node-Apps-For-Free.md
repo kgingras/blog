@@ -41,11 +41,11 @@ Make sure you are in the directory of your Node App. Once there, run the followi
 $ heroku create
 ```
 
-This command will create a Node.js app on Heroku and a remote repository which we can now push code to. You should see a lot of Heroku dialog and the usually very tasteful name that Heroku has given your new app.
+This command will create a Node.js App on Heroku and a remote repository which we can now push code to. You should see a lot of Heroku dialog and the usually very tasteful name that Heroku has given your new App.
 
 ##Deploying the App
 
-Now that we have created our remote repository, Deploying our App is easy. Run the following command to push your app to Heroku.
+Now that we have created our remote repository, Deploying our App is easy. Run the following command to push your App to Heroku.
 
 ```
 $ git push heroku master
@@ -53,7 +53,7 @@ $ git push heroku master
 
 Now all your code is up in your remote repository on Heroku. You have **Deployed** your Node App! Yay.
 
-In order to ensure at least one instance of your app is up and running, run the following command.
+In order to ensure at least one instance of your App is up and running, run the following command.
 
 ```
 $ heroku ps:scale web=1
@@ -77,7 +77,7 @@ In your terminal to get all the data about the latest crash. You will have to re
 
 ##Name Changing
 
-If you wish to change the name of your App from **flurishing-tides-3434** to something more simple. Just go to your account on Heroku, where you can change the names of your Apps. You're allowed up to 5 on the free plan!
+If you wish to change the name of your App from **flourishing-tides-3434** to something more simple. Just go to your account on Heroku, where you can change the names of your Apps. You're allowed up to 5 on the free plan!
 
 ##Conclusion
 
