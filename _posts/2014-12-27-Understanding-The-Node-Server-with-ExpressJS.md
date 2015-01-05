@@ -94,7 +94,7 @@ Now with a fully working Node server you can make any changes to your index.html
 
 ##Full Files
 
-**File Structure**
+**structure**
 
 ```
 - server.js
