@@ -30,6 +30,7 @@ var express = require('express');
 var app 	= express();
 
 app.listen(8080);
+console.log('listening on port 8080');
 ```
 
 This is all you need to start your Node server, but let's go a little deeper on what's going on here.
@@ -45,7 +46,7 @@ The last line simply binds the object to your current host and port specified. H
 Lets add some routes to our server.js file and give our server some purpose. Add the following lines to the bottom of **server.js**.
 
 ```javascript
-app.get('*', function(req, res) {
+app.get('/', function(req, res) {
 	res.send('Hello World');
 });
 ```
@@ -66,9 +67,7 @@ When we point our browser to **localhost:8080** it makes an empty GET Request to
 
 Let's add a simple HTML file to make our server useful. 
 
-Because we are sending a static file, we need to get the file from an **absolute path**. Create a directory called **/public** to put our html file in. 
-
-In **/public**, create a file called index.html shown below for our server to send to clients.
+Create a file called index.html shown below for our server to send to clients.
 
 ```html
 <h1>
@@ -76,19 +75,12 @@ In **/public**, create a file called index.html shown below for our server to se
 </h1>
 ```
 
-For Express to send a static file to a client it requires a absolute path to the file.
-
-In order to get an absolute path we will need to do some path manipulation in our routes. To make this possible add the following line to **server.js** anywhere before the Express Route.
+We will then reconfigure our Express API route to send the file we just created to clients and log the request.
 
 ```javascript
-var path = require('path');
-```
-
-**Path** is a native Node module that allows us to do some path manipulation. Now, change your **API Route** to the following code.
-
-```javascript
-app.get('*', function(req, res) {
-	res.sendFile(path.join(__dirname, '../public', 'index.html'));
+app.get('/', function(req, res) {
+    res.sendFile(__dirname + '/index.html');
+    console.log("got a request");
 });
 ```
 
@@ -104,21 +96,21 @@ Now with a fully working Node server you can make any changes to your index.html
 
 ```
 - server.js
-- /public
-	- index.html
+- index.html
 ```
 
 **server.js**
 
 ```javascript
 var express = require('express');
-var path 	= require('path');
-var app 	= express();
+var app     = express();
 
 app.listen(8080);
+console.log("listening on 8080");
 
-app.get('*', function(req, res) {
-	res.sendFile(path.join(__dirname, '../public', 'index.html'));
+app.get('/', function(req, res) {
+    res.sendFile(__dirname + '/index.html');
+    console.log("got a request");
 });
 ```
 
