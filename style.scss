@@ -20,7 +20,6 @@ html {
 body {
   margin:0;
   padding:0;
-  transition: .3s ease;
 }
 
 .topper {
@@ -216,6 +215,7 @@ img {
   display:table;
   width: 100%;
   padding:8px;
+  transition: .2s ease;
   @include mobile {
     float: none;
     display: block;
@@ -229,7 +229,7 @@ img {
 }
 
 .site-avatar:hover {
-  padding:2px;
+  width:90%;
 }
 
 .site-info {
