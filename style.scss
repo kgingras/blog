@@ -20,6 +20,7 @@ html {
 body {
   margin:0;
   padding:0;
+  transition: .3s ease;
 }
 
 .topper {
@@ -225,6 +226,10 @@ img {
   img {
     border-radius: 5px;
   }
+}
+
+.site-avatar:hover {
+  padding:2px;
 }
 
 .site-info {
