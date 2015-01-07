@@ -206,7 +206,7 @@ img {
   padding: 10px 65px;
   height:100%;
   @include mobile {
-    padding:none;
+    padding:0;
   }
 }
 
