@@ -11,6 +11,12 @@ layout: default
     
     {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
-    <h1 style="font-size:20px;"><a style="font-weight:500;" href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
+    <article class="post" style="border-bottom:none; padding-bottom:0;">    
+        
+        <h1 class="title"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title | upcase}}</a>
+        <div class="sub">{{ post.date | date: "%B %e, %Y" }}</div>
+    </h1>
+        
+    </article>
 {% endfor %}
 </div>
