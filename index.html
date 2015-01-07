@@ -7,10 +7,10 @@ layout: default
   {% capture currentyear %}{{post.date | date: "%B %Y" | upcase}}{% endcapture %}
   {% if currentyear != year %}
     {% unless forloop.first %}{% endunless %}
-    <h1 style="font-weight:700;">{{ currentyear }}</h1>
+    <h1 style="font-weight:300;">{{ currentyear }}</h1>
     
     {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
-    <h1 style="font-size:20px;"><a style="font-weight:300;" href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
+    <h1 style="font-size:20px;"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
 {% endfor %}
 </div>
