@@ -4,7 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-  {% capture currentyear %}{{post.date | date: "%B %Y"}}{% endcapture %}
+  {% capture currentyear %}{{post.date | date: "%B %Y" | upcase}}{% endcapture %}
   {% if currentyear != year %}
     {% unless forloop.first %}{% endunless %}
     <h1 style="font-weight:700;">{{ currentyear }}</h1>
