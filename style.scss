@@ -62,7 +62,7 @@ display:table;
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans";
-  color: $darkerGray;
+  color: #4F4F4F;
   font-weight: bold;
   
   line-height: 1.4;
@@ -180,7 +180,7 @@ img {
   width: 25%;
 position: fixed;
 height: 100vh;
-
+background:#FF8340;
   @include mobile {
     position:relative;
     width:100%;
@@ -251,7 +251,7 @@ margin: 0 auto;
 }
 
 .title {
-  border-bottom: 2px solid #222222;
+  margin-bottom:40px;
 }
 
 .sub {
