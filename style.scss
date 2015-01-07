@@ -178,12 +178,12 @@ img {
 
 .wrapper-masthead {
   width: 23%;
-position: fixed;
-height: 100vh;
-background:#FF8340;
+  position: fixed;
+  height: 100vh;
+  background:#FF8340;
   @include mobile {
     position:relative;
-    width:100%;
+    height:auto;
     background:#F0F0F0;
     border:1px solid #e1e1e1;
   }
@@ -194,7 +194,8 @@ background:#FF8340;
   max-width:100%;
   margin-left:23%;
   @include mobile {
-    width:100%;
+    width:90%;
+    margin: 0 auto;
   }
 }
 
@@ -254,7 +255,6 @@ margin: 0 auto;
   margin-bottom:5px;
   font-size:35px;
   line-height:1.1;
-
 }
 
 .sub {
