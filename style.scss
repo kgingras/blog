@@ -198,13 +198,16 @@ img {
   @include mobile {
     width:90%;
     margin: 0 auto;
-    
+
   }
 }
 
 .right {
   padding: 10px 65px;
   height:100%;
+  @include mobile {
+    padding:none;
+  }
 }
 
 article {
