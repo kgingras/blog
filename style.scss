@@ -28,7 +28,7 @@ body {
 }
 
 .bd {
-  background: url(http://subtlepatterns.com/patterns/crossword.png);
+  background: white;
   font: 17px/1.4 "Open Sans";
   color: $darkGray;
   width:100%;
@@ -383,6 +383,10 @@ cursor: pointer;
     width:33.3333%;
     margin: 8px 0 0 0;
   }
+}
+
+.linkk:hover {
+  background:#FFD07C;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
