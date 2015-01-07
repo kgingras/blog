@@ -212,7 +212,7 @@ img {
 }
 
 .site-avatar {
-  display:table;
+  display:inherit;
   width: 100%;
   padding:8px;
   transition: .2s ease;
