@@ -28,7 +28,7 @@ body {
 }
 
 .bd {
-  background: $white;
+  background: url(http://subtlepatterns.com/patterns/crossword.png);
   font: 17px/1.4 "Open Sans";
   color: $darkGray;
   width:100%;
@@ -56,7 +56,7 @@ display:table;
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 60px 20px;
+  padding: 10px 20px;
   width: 100%;
 }
 
@@ -367,9 +367,12 @@ footer {
 width: 100%;
 text-align: center;
 padding: 5px 0;
-margin-bottom: 8px;
+margin-bottom: 15px;
 font-weight: 700;
 font-size: 21px;
+color: rgb(58, 58, 60);
+background: rgb(254, 198, 98);
+border-radius: 5px;
 cursor: pointer;
   @include mobile {
     border:none;
