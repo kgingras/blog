@@ -216,10 +216,10 @@ img {
   width: 100%;
   padding:8px;
   transition: .2s ease;
+  margin: 0 auto;
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
     width:100px;
   }
 
@@ -229,7 +229,7 @@ img {
 }
 
 .site-avatar:hover {
-  width:90%;
+  width:95%;
 }
 
 .site-info {
