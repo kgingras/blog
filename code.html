@@ -7,7 +7,7 @@ permalink: /code/
   {% for post in site.tags.code %}
       <article class="post" style="border-bottom:none; padding-bottom:0;">    
         
-        <h1 class="title"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+        <h1 class="title"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title | upcase}}</a>
         <div class="sub">{{ post.date | date: "%B %e, %Y" }}</div>
     </h1>
 
