@@ -13,4 +13,4 @@ There's not a lot of things I don't like to do, but to you'll most likely find m
 
 ##Hobbies
 
-I am currently apart of [Groove Percussion Group](http://umuac.org/groove/), 
+I am currently apart of [Groove Percussion Group](http://umuac.org/groove/), a very diverse musical group on campus that specializes in drumming on 
