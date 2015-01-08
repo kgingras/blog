@@ -71,6 +71,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.4;
   margin: 20px 0 15px;
   padding: 0;
+  text-transform: uppercase;
 
   @include mobile {
     line-height: 1.4;
@@ -90,7 +91,6 @@ h2 {
 
 h3 {  
   font-size: 20px;
-  text-transform: uppercase;
 }
 
 h4 {  
