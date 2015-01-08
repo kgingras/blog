@@ -206,6 +206,7 @@ img {
 .right {
   padding: 10px 65px;
   height:100%;
+  max-width:350px;
   @include mobile {
     padding:0;
   }
