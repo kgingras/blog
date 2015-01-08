@@ -4,7 +4,7 @@ title: Hello!
 permalink: /about/
 ---
 
-My name is dan
+I love the web and designing things.
 
 ##Hobbies
 
