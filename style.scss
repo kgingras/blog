@@ -228,6 +228,7 @@ margin: 0 auto;
   transition: .2s ease;
   margin: 0 auto;
   text-decoration:none;
+  border:none;
   @include mobile {
     float: none;
     display: block;
