@@ -7,7 +7,7 @@ layout: default
   {% capture currentyear %}{{post.date | date: "%B %Y" | upcase}}{% endcapture %}
   {% if currentyear != year %}
     {% unless forloop.first %}{% endunless %}
-    <article class="title" style="font-weight:300; margin-top:20px;">{{ currentyear }}</article>
+    <article class="title" style="font-size: 50px; font-weight:300; margin-top:20px;">{{ currentyear }}</article>
     
     {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}

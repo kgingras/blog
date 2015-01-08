@@ -32,10 +32,6 @@
           
           <div class="site-info">
             <p class="site-description">{{ site.description }}</p>
-            <div class="foot">
-              <p>© Daniel Wilson 2014-{{ site.time | date: '%Y' }}.</p>
-              <p>Made with Jekyll and Hosted on Github</p>
-            </div>
           </div>
         </header>
       </div>
@@ -54,6 +50,10 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
+                <div class="foot">
+              <p>© Daniel Wilson 2014-{{ site.time | date: '%Y' }}.</p>
+              <p>Made with Jekyll and Hosted on Github</p>
+            </div>
 
     {% include analytics.html %}
   </div>
