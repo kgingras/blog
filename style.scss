@@ -202,7 +202,6 @@ img {
 
 .right {
   padding: 10px 65px;
-  height:100%;
   max-width:350px;
   @include mobile {
     padding:0;
@@ -358,13 +357,6 @@ footer {
     @include mobile {
       display:none;
     }
-}
-
-#topper {
-  margin-top:21px;
-  @include mobile {
-    margin: 8px 0 0 0;
-  }
 }
 
 .linkk {
