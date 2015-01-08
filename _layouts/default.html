@@ -32,19 +32,10 @@
           
           <div class="site-info">
             <p class="site-description">{{ site.description }}</p>
-            <a href="{{site.baseurl}}/project">
-              <div class="linkk" id="topper">
-              PROJECTS</div></a>
-            <a href="{{site.baseurl}}/life">
-            <div class="linkk">
-              LIFE</div></a>
-            <a href="{{site.baseurl}}/code">
-            <div class="linkk">
-              CODE</div></a>
-          </div>
-          <div class="foot">
-            <p>© Daniel Wilson 2014-{{ site.time | date: '%Y' }}.</p>
-            <p>Made with Jekyll and Hosted on Github</p>
+            <div class="foot">
+              <p>© Daniel Wilson 2014-{{ site.time | date: '%Y' }}.</p>
+              <p>Made with Jekyll and Hosted on Github</p>
+            </div>
           </div>
         </header>
       </div>
@@ -58,12 +49,4 @@
   </div>
 </body>
 </html>
-<script>
-  window.addEventListener('resize', function(){
 
-    var $el = $('.wrapper-masthead');
-
-    $el.width( $el.parent().outerWidth() * .25 );
-
-})
-</script>
