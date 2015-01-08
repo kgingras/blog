@@ -91,13 +91,15 @@ h4 {
 
 p {
   margin: 15px 0;
+  a {
+  border-bottom: 1px solid;
+  border-style: dashed;
+  }
 }
 
 a {
   color: #4F4F4F;
   font-weight:700;
-  border-bottom: 1px solid;
-  border-style: dashed;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
