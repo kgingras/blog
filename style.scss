@@ -214,7 +214,7 @@ margin: 0 auto;
 
 .masthead {
   padding: 20px 0px;
-  
+  border-bottom:3px dashed rgb(254, 198, 98);
   
   @include mobile {
     text-align: center;
