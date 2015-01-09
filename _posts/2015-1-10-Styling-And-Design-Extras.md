@@ -19,5 +19,7 @@ tags:
 
 ##Colors and Textures
 
-[Adobe Kuler](http://kuler.com)
+[Adobe Kuler](https://color.adobe.com/explore/most-popular/?time=all)
+
+* Unfinished
 
