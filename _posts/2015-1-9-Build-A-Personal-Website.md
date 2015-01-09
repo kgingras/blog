@@ -224,7 +224,7 @@ $ git commit -m "initial commit"
 
 This line commits the changes with the message "initial commit". Commit messages are important especially when tracking down issues. 
 
-So we have all our code added and commited, ready to send to the web! but first we need to setup the link between our local repository and our repository on Github. We will do this using a **Remote Repository**.
+So we have all our code added and committed, ready to send to the web! but first we need to setup the link between our local repository and our repository on Github. We will do this using a **Remote Repository**.
 
 ##Remote Repositories
 
@@ -248,6 +248,30 @@ $ git push origin master
 
 This command pushes our latest commit to our origin remote repository on the **master branch**. We won't get into branching in this tutorial, so whenever you push to this repository just use the master branch.
 
+##View your site live
+
+Your site will now be live at username.github.io! Normally it takes around **10 min** for everything to set up on Github Pages after your first commit, but don't worry, all changes pushed after that will be live in seconds. 
+
+##Making changes
+
+Hopefully you want a better web presence than the simple text we created. So let's go over the process of making changes to our site. After you make changes locally that you like and want to make live just run the following commands with **Git Bash**:
+
+```
+/* Add all your changes */
+$ git add .
+
+/* Commit your changes with a message for what you added */
+$ git commit -m "new style"
+
+/* Push your commit to Github */
+$ git push origin master
+```
+
+Your changes will then be live at your site in seconds. 
+
+#OVerview
+
+We covered a lot in this tutorial and couldn't go too far into depth on some subjects in order to get a finished product. But now you have all the tools you need to build, edit, and host your personal website! I hope you enjoyed this tutorial, if you have any questions about the tutorial be sure to ask!
 
 
 
