@@ -44,7 +44,7 @@ Cascading Style Sheets**. CSS allows us to color, move, position, and do many th
 
 First lets update our **index.html** file to be better laid out. 
 
-```html
+```HTML
 <head>
 	<--! links will go here -->
 </head>
@@ -57,7 +57,7 @@ First lets update our **index.html** file to be better laid out.
 
 Create a file in your **/website** folder called **style.css**. We will use this file to make our html look pretty. Add the following code to **style.css**. 
 
-```css
+```CSS
 body {
 	/*makes the page orange*/
 	background: orange;
