@@ -4,7 +4,13 @@ title: Projects
 permalink: /project/
 ---
 
-* [DiscoCloud](http://discocloud.herokuapp.com) is a web application where users can partake in a silent disco. It uses the SoundCloud api for music streams and other web technologies such as Node.js, ExpressJS and Socket.io. Currently Hosted on Heroku. I am very passionate about music and sharing it. I think there is something very special in experiencing a song in rythm with another person. DiscoCloud allows them to do so.
+I have a laptop and connection to the Internet! This is what I've been able to create so far. 
+
+#[DiscoCloud](http://discocloud.herokuapp.com) (in progress)
+
+Ever heard of a **Silent Disco**? now you and your friends can share music and the beat!
+
+**Tech** - (SoundCloud API, Node.js, ExpressJS, Socket.io, AngularJS)
 
 * [BlitzBlock](http://goo.gl/zqblW9) is a fun fast paced tapping native Android game. My first major project in my life, this game incoporated fun aspects from games I had played before into an exciting game that features medals, high-scores, and other fun elements.
 
