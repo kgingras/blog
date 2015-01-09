@@ -17,7 +17,7 @@ Today, you have access to everything you need: passionate teachers, detailed tut
 
 For myself, the toughest point in my career as a developer, was the beginning. I remember being in my freshman intro to programming lab feeling like a **muggle** who just couldn't produce the magic other kids were able to. I stuck with it and became best friends with the expanse of knowledge that exists on the Internet.
 
-```C++
+```C
 while (!answered(question)) {
 	Check_StackOverflow(question);
 }
