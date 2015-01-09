@@ -174,6 +174,29 @@ body {
 </body>
 ```
 
-##What is a git repository?
+While this isn't the prettiest webpage in the world it's something to get you started. I encourage you to mess around with CSS and the Extras section of this post for good styling tips. For now, we must move on.
 
-I'm glad you asked. Our website is going to be made of up one or more files containing HTML, CSS, and JavaScript. **Git**, is in charge of managing all the code that we've written and moving it from place to place quickly and cleanly. Think of it sort of as a wrapping around all the files in a folder. It keeps track of changes, creations, and deletions of files and allows you to version your website.  
+##Hosting your site
+
+When you go to a website on your computer, your browser sends a request to a server somewhere. The server with then **serve** or send you back some data, usually in the form of HTML, CSS, and JavaScript. We need to put our site on a server that will send our code we just wrote to clients when they visit our site.
+
+To host our site we will use Github's hosting service called **Github Pages**. It is a really great service that allows you to host a static page (which is what we have) and make changes easily and quickly.
+
+##Setting up a Github Account
+
+This is a pretty easy step. Just go to [Github.com](http://github.com) and create an account. Make sure to pick a nice user name because that will be part of your website url.
+
+##What are Git and Github?
+
+I'm glad you asked. Our website is going to be made of up one or more files containing HTML, CSS, and JavaScript. **Git**, is in charge of managing all the code that we've written and moving it from place to place quickly and cleanly. Think of it sort of as a wrapping around all the files in a folder. It keeps track of changes, creations, and deletions of files and allows you to version your website. Git wraps up all your files into something called a **Repository** which can be then copied and moved around the web. **Github** is a really great site for hosting your repositories and exploring others as well. 
+
+Github Pages will host a static website at the url: **username.github.io**. If you look up at your current url, you can see that this blog is hosted at daniellytle.github.io. 
+
+##Installing Git and Git Bash
+
+In order to use Git and run Git Commands locally, we will need to install Git and if you're on Windows, Git Bash(a terminal) as well. Go to [This Link](http://git-scm.com/downloads) to download one or both.
+
+##Create your website Repository
+
+On your new Github Account, create a new Repository called "username".github.io with your specific username. Github Pages will automatically look for an html file in this repository when people go to your site. 
+
