@@ -6,29 +6,27 @@ permalink: /project/
 
 I have a laptop and connection to the Internet! This is what I've been able to create so far. 
 
-###[DiscoCloud](http://discocloud.herokuapp.com) (in progress)
+* [DiscoCloud](http://discocloud.herokuapp.com) - Ever heard of a **Silent Disco**? now you and your friends can share music and the beat! Using real-time web frameworks, now you can host a silent disco with friends even if you're miles away. Hosted on Heroku.
 
-Ever heard of a **Silent Disco**? now you and your friends can share music and the beat! Using real-time web frameworks, now you can host a silent disco with friends even if you're miles away. Hosted on Heroku.
+	**Tech** - SoundCloud API, Node.js, ExpressJS, Socket.io, AngularJS, Heroku
 
-**Tech** - SoundCloud API, Node.js, ExpressJS, Socket.io, AngularJS, Heroku
-
-###[BlitzBlock](http://goo.gl/zqblW9) 
+* [BlitzBlock](http://goo.gl/zqblW9) 
 
 A fun fast paced tapping native Android game. My first major project in my life, this game incorporated fun aspects from games I had played before into an exciting game that features medals, high-scores, and other fun elements.
 
-**Tech** - Android Studio, Android animations
+	**Tech** - Android Studio, Android animations
 
-###[Delivice](https://delivice.github.io) 
+* [Delivice](https://delivice.github.io) 
 
 A landing page I created for a local Ann Arbor startup providing grocery delivery for students and residence. I did all the design and development associated with the page as well as the icon design. They're a great group of people and I hope to do more with them in the future.
 
-**Tech** - HTML5, CSS3, jQuery, JS
+	**Tech** - HTML5, CSS3, jQuery, JS
 
-###[Michigan Today](http://goo.gl/zqblW9) 
+* [Michigan Today](http://goo.gl/zqblW9) 
 
 My first ever application created. Built at my first hackathon. It was extremely simple but showed me the unlimited possibilities that come from development. It inspired me to learn more and work harder.
 
-**Tech** - Eclipse IDE, Android, APIs
+	**Tech** - Eclipse IDE, Android, APIs
 
 ##Work Experience
 
