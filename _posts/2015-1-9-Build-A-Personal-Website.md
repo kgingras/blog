@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build and Push A Personal Website
+title: Build a simple Website with Sublime Text
 tags:
 - code
 ---
@@ -198,7 +198,56 @@ In order to use Git and run Git Commands locally, we will need to install Git an
 
 ##Create your website Repository
 
-On your new Github Account, create a new Repository called "username".github.io with your specific username. Github Pages will automatically look for an html file in this repository when people go to your site. 
+On your new Github Account, create a new Repository called "username".github.io with your specific username. Github Pages will automatically look for an html file in this repository when people go to your site. Next we will put all our code in that repository using **Git Bash**.
 
-I'll continue working on this tomorrow*
+##Using Git Bash to push our website to Github.
+
+If you've ever worked with a Linux or Mac terminal than this should be familiar. **Git Bash** is a command line tool that we will use to run our Git commands.
+
+Inside **/website** right click and select **Open Git Bash Here**. This will open an instance of Git Bash in that folder. Now that Git Bash is open run the following command:
+
+```
+$ git init
+```
+
+This initializes an empty repository in your directory. Now that we have set up a bare repository, let's add all our files to it with the following command:
+
+```
+$ git add .
+```
+
+This adds all the changes we've made to our repository to the **Git index**. We want to record these changes and label them so next run the following commit:
+
+```
+$ git commit -m "initial commit"
+```
+
+This line commits the changes with the message "initial commit". Commit messages are important especially when tracking down issues. 
+
+So we have all our code added and commited, ready to send to the web! but first we need to setup the link between our local repository and our repository on Github. We will do this using a **Remote Repository**.
+
+##Remote Repositories
+
+These are repositories that are hosted somewhere on the web, in our case, **Github**. We will use our Git Remote to send code to Github when we want to change our website. 
+
+Go back to your Github Repository and copy the URL specified. Now run the following command to set up the remote repository. 
+
+```
+$ git remote add origin <yourURL>
+```
+
+This will create a remote repository named "origin" and connect it to your repository on Github. Now when you push code to this repository, you will be pushing code to Github!
+
+##Pushing to Github
+
+Now we have our remote repository set up all we need to run is the following command to send our code to Github:
+
+```
+$ git push origin master
+```
+
+This command pushes our latest commit to our origin remote repository on the **master branch**. We won't get into branching in this tutorial, so whenever you push to this repository just use the master branch.
+
+
+
 
