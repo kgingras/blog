@@ -11,35 +11,47 @@ In today's world, you can **build, manage, and run a company** with a laptop and
 
 ##You have all you need to start
 
-Today, you have access to everything you need: passionate teachers, detailed tutorials, and incredible technologies, all free and accessible online! With this resources you can **literally** build the next facebook with skills learned online. 
+Today, you have access to everything you need: passionate teachers, detailed tutorials, and incredible technologies, all free and accessible online! With these resources you can **literally** build the next facebook with skills learned online. 
 
 ##Starting is the Hardest
 
 For myself, the toughest point in my career as a developer, was the beginning. I remember being in my freshman intro to programming lab feeling like a **muggle** who just couldn't produce the magic other kids were able to. I stuck with it and became best friends with the expanse of knowledge that exists on the Internet.
 
 ```C++
-if(is_valid_question(questions)) {
-	cout<<"Check StackOverflow";
+while (!answered(question)) {
+	Check_StackOverflow(question);
 }
 ```
 
-Coding outside of class is when you truly 
+##Learning to Learn
 
-##What you can do
+Even more so than coding, being able to learn on your own might be the **greatest skill of all**. This enables you to be a dynamic professional, constantly learning new skills and developing yourself along with awesome applications. 
 
+I don't have a ton of industry experience, but from the people I've spoken with, Software is such a fast moving field that one must be constantly learning to stay up to date with the cutting edge. This being said, the importance of the ability to pick up something quickly is immeasurable.
 
+##How I would start
+
+If I was just beginning, I would start with making a simple website. It's a simple project that you can sit back, look at and say, **I made this**. Nothing is more inspirational to me than seeing something go from idea to implementation. I think I'll make a Blog Post about building your first website.
+
+##Don't Give up
+
+It is easy to get discouraged especially when it feels like you're not as good at it as others, but **Don't Worry**, just focus on learning yourself. Be the best you can be and never doubt that you have the ability to become a great developer and make incredible things.
 
 ##Conclusion
 
-I believe the computer science mindset can change the way you view life and inspire you to work harder to make the world a better place. If your completely new and want to try it out, check out some of the links below to get started.
+I understand that not everyone **loves coding**, in fact I'm good friends with people to **harbor deep hatred for it**. I think it's important that people pursue what they love. That's probably the most awesome thing someone can do. 
 
-```
-[CodeAcademy](http://codecademy.com)
+If you want to get started in coding, I've included some good links to get up and running. Hopefully I make that Blog Post soon.
 
-[CodeSchool](https://codeschool.com)
+**Fun fact:** About a 1.5 years ago I was clicking one of the links and just beginning, now I'm writing this post today. Hopefully y  
 
-[HackerRank](https://hackerrank.com)
-```
+[CodeAcademy](http://codecademy.com) - **Beginner**, Great for the total beginner, basic concepts for many different languages.
+
+[CodeSchool](https://codeschool.com) - **Intermediate**, Good application based curriculum.
+
+[HackerRank](https://hackerrank.com) - **Intermediate-Expert**, Fun coding challenges. Great for Interview Prep. 
+
+[Scotch.io](https://scotch.io) - **Intermediate**, **Highly Recommended**. Awesome Web App Tutorials, you'll have a finished product when done.
 
 
 
