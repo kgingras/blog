@@ -39,7 +39,7 @@ It is easy to get discouraged especially when it feels like you're not as good a
 
 I understand that not everyone **loves coding**, in fact I'm good friends with people to **harbor deep hatred for it**. I think it's important that people pursue what they love. That's probably the most awesome thing someone can do. If you want to get started in coding, I've included some good links to get up and running. Hopefully I make that Blog Post soon.
 
-**Fun fact:** About a 1.5 years ago I was clicking one of the links and just beginning, now I'm writing this post today. If I a goon like me can do it, **so can you!**.
+**Fun fact:** About a 1.5 years ago I was clicking one of the links and just beginning, now I'm writing this post today. If I a goon like me can do it, **so can you!**
 
 [CodeAcademy](http://codecademy.com) - **Beginner**, Great for the total beginner, basic concepts for many different languages.
 
