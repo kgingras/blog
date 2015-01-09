@@ -200,3 +200,5 @@ In order to use Git and run Git Commands locally, we will need to install Git an
 
 On your new Github Account, create a new Repository called "username".github.io with your specific username. Github Pages will automatically look for an html file in this repository when people go to your site. 
 
+I'll continue working on this tomorrow*
+
