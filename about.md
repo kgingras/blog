@@ -4,7 +4,7 @@ title: Hello!
 permalink: /about/
 ---
 
-**What's there to know about me?** Well, I love the web, I love code, I love colors, I love layouts and I love how people interact with all of them. That's a lot of loves you say? Well, I am a passionate guy.
+**What's there to know about me?** Well, I love the web, I love code, I love colors, I love layouts, and I love how people interact with all of them. That's a lot of loves you say? Well, I am a passionate guy.
 
 Technically speaking, I a 6'5" web developer from [Traverse City, MI](http://traversecity.com) who wants to change the world through technology. I am constantly developing projects on my own and with others while I study Computer Science at the [University of Michigan](http://umich.edu).
 
@@ -28,7 +28,7 @@ I believe that anyone can code, and like my mothers cooking, everyone should at 
 
 I do not pretend to be the smartest guy in the world so if you see a flaw in a post by all means let me know (even if you wanna just discuss it). I love learning more about cool stuff!
 
-##Fin
+##el Fin
 
 I truly hope you enjoy your time here in our little corner of the web! All the best!
 
