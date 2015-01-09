@@ -65,11 +65,114 @@ body {
 
 h1 {
 	/*makes the text white*/
-	color:white;
+	color: white;
 }
 ```
 
 **background** and **color** are two of the many CSS properties that exist for styling html. Check out [W3Schools](http://www.w3.org/css) for more information. 
+
+Now we need to attach our styling to our html. We will do this with a "<link/>" tag. In **index.html** replace the "links go here" comment with the following line:
+
+```HTML
+<link rel="stylesheet" type="text/css" href="style.css"/>
+```
+
+**index.html** should now look like this:
+
+```HTML
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+	<h1>
+		Welcome to my corner of the Web!
+	</h1>
+</body>
+```
+
+This will connect our styling to our html. Save the files and view them again in your browser. You should see that our styling has been applied to the html.
+
+Let's add some more styling to our html and review what each properties does. Add the following lines of code to **style.css**:
+
+```CSS
+body {
+	/*makes the page orange*/
+	background: orange;
+}
+
+h1 {
+	/*makes the text white*/
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+}
+```
+
+We use CSS to attach styling to html elements. In the file above you can see the keyword **body** with brackets and then listed properties. That code attaches those styling properties to any html tag **body**. An important thing to note is that children elements(elements withing elements like the **h1**) inherit styling from their parent elements. 
+
+##CSS ids and classes
+
+One of the simplest ways to style your html is with **CSS ids and classes**. Before we saw how to style html tags, but what if we want to style unique elements in their own way? We use **ids** to attach styling to unique elements in html. A specific id should only be **unique** and only used once. If you are attaching similar styling to many elements, you should use a class. Classes allow you to write one class containing your styling and apply that class multiple elements rather than writing all the styling for each element.
+
+**How to specify Ids and Classes in CSS**
+
+```CSS
+/* id syntax */
+#myElt {
+	/* style */
+}
+
+/* class syntax */
+.myClass {
+	/* style */
+}
+
+```
+
+**How to give html elements Ids and Classes**
+
+```HTML
+<body>
+	<div id="myElt">
+		This is Unique
+	</div>
+	<button class="myClass">This is Repeated</button>
+	<button class="myClass">Yes you're right</button>
+	<button class="myClass">Well now I know!</button>
+	<button class="myClass">Time to continue</button>
+</body>
+```
+
+Let's re-factor our code to use ids were appropriate:
+
+**style.css**
+
+```CSS
+body {
+	/*makes the page orange*/
+	background: orange;
+}
+
+#welcome {
+	/*makes the text white*/
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+}
+```
+
+**index.html**
+
+```HTML
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+	<h1 id="welcome">
+		Welcome to my corner of the Web!
+	</h1>
+</body>
+```
 
 ##What is a git repository?
 
