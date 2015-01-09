@@ -19,7 +19,7 @@ tags:
 
 ##Colors and Textures
 
-[Adobe Kuler](https://color.adobe.com/explore/most-popular/?time=all)
+[Adobe Kuler](https://color.adobe.com/explore/most-popular/?time=all) is great for finding and managing color schemes for your site. You can create your own or use some popular schemes. 
 
-* Unfinished
+
 
