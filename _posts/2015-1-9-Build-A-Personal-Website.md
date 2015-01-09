@@ -261,7 +261,7 @@ Hopefully you want a better web presence than the simple text we created. So let
 $ git add .
 
 /* Commit your changes with a message for what you added */
-$ git commit -m "new style"
+$ git commit -m "fixed header"
 
 /* Push your commit to Github */
 $ git push origin master
