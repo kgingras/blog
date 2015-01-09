@@ -8,17 +8,27 @@ I have a laptop and connection to the Internet! This is what I've been able to c
 
 #[DiscoCloud](http://discocloud.herokuapp.com) (in progress)
 
-Ever heard of a **Silent Disco**? now you and your friends can share music and the beat!
+Ever heard of a **Silent Disco**? now you and your friends can share music and the beat! Using real-time web frameworks, now you can host a silent disco with friends even if you're miles away. Hosted on Heroku.
 
-**Tech** - (SoundCloud API, Node.js, ExpressJS, Socket.io, AngularJS)
+**Tech** - SoundCloud API, Node.js, ExpressJS, Socket.io, AngularJS, Heroku
 
-* [BlitzBlock](http://goo.gl/zqblW9) is a fun fast paced tapping native Android game. My first major project in my life, this game incoporated fun aspects from games I had played before into an exciting game that features medals, high-scores, and other fun elements.
+#[BlitzBlock](http://goo.gl/zqblW9) 
 
-* [Delivice](https://delivice.github.io) is a landing page I created for a local Ann Arbor startup providing grocery delivery for students and residence. I did all the design and development associated with the page as well as the icon design. They're a great group of people and I hope to do more with them in the future.
+A fun fast paced tapping native Android game. My first major project in my life, this game incorporated fun aspects from games I had played before into an exciting game that features medals, high-scores, and other fun elements.
 
-##Smaller Projects
+**Tech** - Android Studio, Android animations
 
-[Michigan Today](http://goo.gl/zqblW9) was my first ever application created. Built at my first hackathon. It was extremely simple but showed me the unlimited possibilities that come from development. It inspired me to learn more and work harder.
+#[Delivice](https://delivice.github.io) 
+
+A landing page I created for a local Ann Arbor startup providing grocery delivery for students and residence. I did all the design and development associated with the page as well as the icon design. They're a great group of people and I hope to do more with them in the future.
+
+**Tech** - HTML5, CSS3, jQuery, JS
+
+#[Michigan Today](http://goo.gl/zqblW9) 
+
+My first ever application created. Built at my first hackathon. It was extremely simple but showed me the unlimited possibilities that come from development. It inspired me to learn more and work harder.
+
+**Tech** - Eclipse IDE, Android, APIs
 
 ##Work Experience
 
