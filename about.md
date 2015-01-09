@@ -8,7 +8,7 @@ permalink: /about/
 
 Technically speaking, I a 6'5" web developer from [Traverse City, MI](http://traversecity.com) who wants to change the world through technology. I am constantly developing projects on my own and with others while I study Computer Science at the [University of Michigan](http://umich.edu).
 
-I believe that anyone can code, and like foreign foods, everyone should at least **try it**. I write this [Blog](http://daniellytle.github.io/blog) in hopes of helping, encouraging, and maybe inspiring those making there way down the path I took. 
+I believe that anyone can code, and like [Settlers of Catan](http://catan.com), everyone should at least **try it**. I write this [Blog](http://daniellytle.github.io/blog) in hopes of helping, encouraging, and maybe inspiring those making there way down the path I took. 
 
 ##Organizations
 
