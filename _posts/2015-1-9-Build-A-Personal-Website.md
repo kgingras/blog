@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build a simple Website with Sublime Text
+title: Build and Host a personal website
 tags:
 - code
 ---
