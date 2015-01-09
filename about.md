@@ -18,5 +18,9 @@ I believe that anyone can code, and like my mothers cooking, everyone should at 
 
 ##Hobbies
 
+**Music** - Check out my [SoundCloud](http://soundcloud.com/danielwilsonmusic)!
 
+**Hackathons** - Gotta love that "We'll do it live" mentality while working through the night until **It works**.
+
+**Water** - Growing up with lakes everywhere I've always loved being on the water.
 
