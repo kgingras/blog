@@ -227,6 +227,7 @@ margin: 0 auto;
   padding:8px;
   transition: .2s ease;
   margin: 0 auto;
+  margin-bottom: 20px;
   text-decoration:none;
   border:none;
   @include mobile {
@@ -372,7 +373,7 @@ footer {
 
 .linkk {
 width: 100%;
-text-align: left;
+text-align: right;
 padding: 9px;
 margin-bottom: 4px;
 text-decoration: none;
