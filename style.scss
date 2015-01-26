@@ -224,7 +224,6 @@ margin: 0 auto;
 .site-avatar {
   display:inherit;
   width: 100%;
-  padding:8px;
   transition: .2s ease;
   margin: 0 auto;
   margin-bottom: 20px;
@@ -253,6 +252,11 @@ margin: 0 auto;
 
 .entry {
   color:#4F4F4F;
+}
+
+.current {
+  background: rgb(58, 58, 60);
+  color: white;
 }
 
 .title {

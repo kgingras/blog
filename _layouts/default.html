@@ -29,15 +29,15 @@
       <div class="container right">
         <header class="masthead clearfix">
           <a href="http://daniellytle.github.io/blog" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-          
+          {% assign current = page.url | downcase | split: '/' %}
             <a href="{{site.baseurl}}/project">
-              <div class="linkk" id="topper">
+              <div class="linkk {% if current[1] == 'project' %}current{% endif %}" id="topper">
               PROJECTS</div></a>
             <a href="{{site.baseurl}}/life">
-            <div class="linkk">
+            <div class="linkk {% if current[1] == 'life' %}current{% endif %}">
               LIFE</div></a>
             <a href="{{site.baseurl}}/code">
-            <div class="linkk">
+            <div class="linkk {% if current[1] == 'code' %}current{% endif %}">
               CODE</div></a>
         </header>
       </div>
