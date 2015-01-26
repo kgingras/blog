@@ -254,11 +254,6 @@ margin: 0 auto;
   color:#4F4F4F;
 }
 
-.current {
-  background: rgb(58, 58, 60);
-  color: white;
-}
-
 .title {
   margin-bottom:5px;
   font-size:35px;
@@ -395,6 +390,11 @@ cursor: pointer;
 }
 
 .linkk:hover {
+  background: rgb(58, 58, 60);
+  color: white;
+}
+
+.current {
   background: rgb(58, 58, 60);
   color: white;
 }
