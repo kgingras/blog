@@ -179,7 +179,6 @@ img {
   width: 23%;
   position: fixed;
   height: 100vh;
-  background:#FF8340;
   @include mobile {
     position:relative;
     height:auto;
@@ -214,7 +213,6 @@ margin: 0 auto;
 
 .masthead {
   padding: 20px 0px;
-  border-bottom:3px dashed rgb(254, 198, 98);
   
   @include mobile {
     text-align: center;
@@ -375,9 +373,9 @@ footer {
 .linkk {
 width: 100%;
 text-align: center;
-padding: 5px 0;
+padding: 9px;
 background:#FF8340;
-margin-bottom: 1px;
+margin-bottom: 4px;
 text-decoration: none;
 font-weight: 700;
 font-size: 21px;
