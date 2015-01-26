@@ -179,6 +179,7 @@ img {
   width: 23%;
   position: fixed;
   height: 100vh;
+  background:#FF8340;
   @include mobile {
     position:relative;
     height:auto;
@@ -213,6 +214,7 @@ margin: 0 auto;
 
 .masthead {
   padding: 20px 0px;
+  border-bottom:3px dashed rgb(254, 198, 98);
   
   @include mobile {
     text-align: center;
@@ -224,9 +226,9 @@ margin: 0 auto;
 .site-avatar {
   display:inherit;
   width: 100%;
+  padding:8px;
   transition: .2s ease;
   margin: 0 auto;
-  margin-bottom: 20px;
   text-decoration:none;
   border:none;
   @include mobile {
@@ -372,9 +374,10 @@ footer {
 
 .linkk {
 width: 100%;
-text-align: right;
-padding: 9px;
-margin-bottom: 4px;
+text-align: center;
+padding: 5px 0;
+background:#FF8340;
+margin-bottom: 1px;
 text-decoration: none;
 font-weight: 700;
 font-size: 21px;
@@ -390,13 +393,7 @@ cursor: pointer;
 }
 
 .linkk:hover {
-  background: rgb(58, 58, 60);
-  color: white;
-}
-
-.current {
-  background: rgb(58, 58, 60);
-  color: white;
+  background:#FFD07C;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
