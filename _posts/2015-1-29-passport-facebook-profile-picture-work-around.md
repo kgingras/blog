@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Passport Facebook Profile Picture Workaround
+title: Passport Facebook Profile Picture Issue
 tags:
 - code
 ---
