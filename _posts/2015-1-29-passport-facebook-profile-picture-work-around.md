@@ -18,7 +18,7 @@ app.get('/auth/facebook', passport.authenticate('facebook', {
 
 This was causing issues as photos would not be returned nor would picture. A couple suggestions I found online used the Graph API but required the user's name which was also not returning.
 
-The solution I am currently using turned out to be much simpler than anything found elsewhere. After researching the new changes to the Graph API, I found that you can get a users profile picture at **graph.facebook.com/<user id>/picture**. Now I simply set the users profile picture element to that url and it works perfectly.
+The solution I am currently using turned out to be much simpler than anything found elsewhere. After researching the new changes to the Graph API, I found that you can get a users profile picture at **graph.facebook.com/user_id/picture**. Now I simply set the users profile picture element to that url and it works perfectly.
 
 ```javascript
 user.fbid   = profile.id;
