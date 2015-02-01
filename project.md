@@ -8,27 +8,27 @@ I have a laptop and connection to the Internet! This is what I've been able to c
 
 [DiscoCloud](http://discocloud.herokuapp.com) - Ever heard of a **Silent Disco**? now you and your friends can share music and the beat! Using real-time web frameworks, now you can host a silent disco with friends even if you're miles away. Hosted on Heroku.
 
-	```
-	SoundCloud API, Node.js, ExpressJS, Socket.io, AngularJS, Heroku
-	```
+```
+SoundCloud API, Node.js, ExpressJS, Socket.io, AngularJS, Heroku
+```
 
 [BlitzBlock](http://goo.gl/zqblW9) - A fun fast paced tapping native Android game. My first major project in my life, this game incorporated fun aspects from games I had played before into an exciting game that features medals, high-scores, and other fun elements.
 
-	```
-	Android Studio IDE, Android animations
-	```
+```
+Android Studio IDE, Android animations
+```
 
 [Delivice](https://delivice.github.io) - A landing page I created for a local Ann Arbor startup providing grocery delivery for students and residence. I did all the design and development associated with the page as well as the icon design. They're a great group of people and I hope to do more with them in the future.
 
-	```
-	HTML5, CSS3, jQuery, JS
-	```
+```
+HTML5, CSS3, jQuery, JS
+```
 
 [Michigan Today](http://goo.gl/zqblW9) - My first ever application created. Built at my first hackathon. It was extremely simple but showed me the unlimited possibilities that come from development. It inspired me to learn more and work harder.
 
-	```
-	Eclipse IDE, Android, APIs
-	```
+```
+Eclipse IDE, Android, APIs
+```
 
 ##Work Experience
 
