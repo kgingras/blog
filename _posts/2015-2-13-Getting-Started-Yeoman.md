@@ -19,7 +19,7 @@ We will use npm to install all the things listed below:
 
 ###Yeoman
 
-![Yeoman](http://juristr.com/blog/assets/imgs/node-grunt-yeoman/yeoman-logo.jpeg)
+![Yeoman](http://juristr.com/blog/assets/imgs/node-grunt-yeoman/yeoman-logo.png)
 
 Yeoman helps us build a stock application. It will give us a simple skeleton from which we can build our app.
 
