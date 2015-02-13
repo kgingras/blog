@@ -19,17 +19,21 @@ We will use npm to install all the things listed below:
 
 ###Yeoman
 
+!(Yeoman)[http://juristr.com/blog/assets/imgs/node-grunt-yeoman/yeoman-logo.jpeg]
+
 Yeoman helps us build a stock application. It will give us a simple skeleton from which we can build our app.
 
 ###Grunt
+
+!(Grunt)[http://juristr.com/blog/assets/imgs/node-grunt-yeoman/grunt-logo.jpeg]
 
 Grunt is a task-runner. It will help speed up development workflow by automatically compiling assets, restarting our server, and doing whatever else you tell it to.
 
 ###Bower
 
-Bower will be our front-end package manager. It makes loading dependencies like angular, jQuery, and many other common libraries and frameworks, easy and hassle free.
-
 ![Bower](http://juristr.com/blog/assets/imgs/node-grunt-yeoman/bower-logo.png)
+
+Bower will be our front-end package manager. It makes loading dependencies like angular, jQuery, and many other common libraries and frameworks, easy and hassle free.
 
 ```
 npm install -g yo bower grunt
