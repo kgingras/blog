@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans";
   color: #4F4F4F;
   font-weight: bold;
-  
+
   line-height: 1.4;
   margin: 20px 0 15px;
   padding: 0;
@@ -68,23 +68,24 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.4;
   }
 }
-  
-h1 {  
+
+h1 {
   font-size: 30px;
   a {
     color: inherit;
   }
 }
 
-h2 {  
+h2 {
+  border-bottom: 1px solid #B7B7B7;
   font-size: 24px;
 }
 
-h3 {  
+h3 {
   font-size: 20px;
 }
 
-h4 {  
+h4 {
   font-size: 18px;
   color: $gray;
 }
@@ -215,7 +216,7 @@ margin: 0 auto;
 .masthead {
   padding: 20px 0px;
   border-bottom:3px dashed rgb(254, 198, 98);
-  
+
   @include mobile {
     text-align: center;
     border:none;
@@ -243,7 +244,7 @@ margin: 0 auto;
 }
 
 .site-info {
-  
+
 
   @include mobile {
     float: none;
@@ -280,7 +281,7 @@ margin: 0 auto;
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: "Pacifico"; 
+  font-family: "Pacifico";
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -293,7 +294,7 @@ margin: 0 auto;
   font-weight:700;
   font-size: 18px;
   text-align:center;
-  
+
   @include mobile {
     display:none;
   }
@@ -302,9 +303,9 @@ margin: 0 auto;
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: "Open Sans"; 
+  font-family: "Open Sans";
   font-size: 18px;
-  
+
   @include mobile {
     float: none;
     margin-top: 9px;
@@ -336,7 +337,7 @@ nav {
   border-bottom: none;
 }
 
-.post { 
+.post {
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
