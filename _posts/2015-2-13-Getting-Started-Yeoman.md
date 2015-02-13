@@ -29,11 +29,13 @@ Grunt is a task-runner. It will help speed up development workflow by automatica
 
 Bower will be our front-end package manager. It makes loading dependencies like angular, jQuery, and many other common libraries and frameworks, easy and hassle free.
 
+![Bower](http://juristr.com/blog/assets/imgs/node-grunt-yeoman/bower-logo.png)
+
 ```
 npm install -g yo bower grunt
 ```
 
-The `-g` will install these packages globally so you can use them from anywhere. 
+The `-g` will install these packages globally so you can use them from anywhere.
 
 ##Generators
 
