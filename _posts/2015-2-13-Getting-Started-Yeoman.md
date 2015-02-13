@@ -19,13 +19,13 @@ We will use npm to install all the things listed below:
 
 ###Yeoman
 
-!(Yeoman)[http://juristr.com/blog/assets/imgs/node-grunt-yeoman/yeoman-logo.jpeg]
+![Yeoman](http://juristr.com/blog/assets/imgs/node-grunt-yeoman/yeoman-logo.jpeg)
 
 Yeoman helps us build a stock application. It will give us a simple skeleton from which we can build our app.
 
 ###Grunt
 
-!(Grunt)[http://juristr.com/blog/assets/imgs/node-grunt-yeoman/grunt-logo.jpeg]
+![Grunt](http://juristr.com/blog/assets/imgs/node-grunt-yeoman/grunt-logo.jpeg)
 
 Grunt is a task-runner. It will help speed up development workflow by automatically compiling assets, restarting our server, and doing whatever else you tell it to.
 
