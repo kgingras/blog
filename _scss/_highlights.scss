@@ -3,7 +3,7 @@
 /* SYNTAX HIGHLIGHTING */
 /***********************/
 
-.highlight { 
+.highlight {
   background-color: #303030;
   padding: 5px 10px;
   margin: 20px 0;
@@ -16,14 +16,19 @@
   line-height: 1.3;
   white-space: pre-wrap;
 }
- 
+
 code {
   font-family: 'Courier', monospace;
   font-size: 14px;
   color: #fff;
 }
- 
-// Solarized Light Pygments 
+
+article p code {
+  color: #303030;
+  background: #dcdcdc;
+}
+
+// Solarized Light Pygments
 // Thanks https://gist.github.com/edwardhotchkiss/2005058
 /* Comment */
 .highlight .c, .highlight .c1 { color: #CCCCCC }
