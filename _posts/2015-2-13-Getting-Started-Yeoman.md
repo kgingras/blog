@@ -115,3 +115,45 @@ app
     └── main.html
 
 ```
+
+Until now you're probably thinking why didn't we just clone a repo of this app and start from there? what is the purpose? Well now we will see Yeoman at its finest.
+
+##Where Yeoman Gets Awesome
+
+Using "sub-generators" in our angular generator, we will create a new route. This will include a new view, angular controller, and configured route in our app, all generated in seconds. Personally, this is what makes Yeoman awesome.
+
+```
+$ yo angular:route my_route
+```
+
+Now, Yeoman has generated a new controller and view for our custom route.
+
+```
+app
+├── 404.html
+├── favicon.ico
+├── images
+│   └── yeoman.png
+├── index.html
+├── robots.txt
+├── scripts
+│   ├── app.js
+│   └── controllers
+│       ├── about.js
+│       ├── main.js
+│       └── my_route.js
+├── styles
+│   └── main.css
+└── views
+    ├── about.html
+    ├── main.html
+    └── my_route.html
+```
+
+You can probably understand how much this will speed up development in the future.
+
+There are many other "sub-generators" for our angular app. Check them all out in the [readme](https://github.com/yeoman/generator-angular)
+
+##Conclusion
+
+Now you've got a sweet app, development environment and you know how to use it! Go conquer the world.
