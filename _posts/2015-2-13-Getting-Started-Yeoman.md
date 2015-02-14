@@ -75,7 +75,7 @@ Once you power through these initial questions Yeoman should be hard at work cra
 
 ##Viewing our App
 
-I am anxious to see what Yeoman created! Once it is done blasting your terminal with info we use the `serve` task in grunt to view our new app.
+I am anxious to see what Yeoman created! Once it is done blasting your terminal with info we will use grunt to get our app up and running.
 
 First we have to build our app using **Grunt**. Use the following command to compile your assets and build your app.
 
@@ -83,7 +83,7 @@ First we have to build our app using **Grunt**. Use the following command to com
 $ grunt
 ```
 
-To get a quick view of what Yeoman made run the next command. This will set up a quick server to serve your angular app and even open a browser tab to it!
+To get a quick view of what Yeoman made, run the next command we will spin up a server to host our app. This command will also pull open a browser tab of your app!
 
 ```
 $ grunt serve
@@ -94,3 +94,24 @@ $ grunt serve
 As you saw above, we generated a pretty basic application. Now check out the code behind by opening up our app in your IDE or text editor of choice.
 
 Another great thing about Yeoman and great generators is that you are started off with a great example of project structure and code style. You should be able to keep a pretty clean app by sticking to the pre-set style as you add more code and functionality.
+
+```
+app
+├── 404.html
+├── favicon.ico
+├── images
+│   └── yeoman.png
+├── index.html
+├── robots.txt
+├── scripts
+│   ├── app.js
+│   └── controllers
+│       ├── about.js
+│       └── main.js
+├── styles
+│   └── main.css
+└── views
+    ├── about.html
+    └── main.html
+
+```
