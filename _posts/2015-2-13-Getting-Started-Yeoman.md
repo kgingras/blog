@@ -5,7 +5,7 @@ tags:
 - code
 ---
 
-**Too many precious hours have been spent struggling to set up something simple.** With the tools available to web developers today, building something from scratch is almost stubborn. Instead of building your idea from scratch, you can save a **large** amount of time and mold an already well made app into your idea.
+**At hackathons, too many precious hours are spent by many struggling to set up something simple.** With the tools available to web developers today, building something from scratch is almost stubborn. Instead of building your idea from scratch, you can save a **large** amount of time and mold an already well made app into your idea.
 
 **Yeoman** does just this. It builds a well made application for you to mold into the app that you want. Let's go through how easy it is to setup a simple angular application. Yeoman actually does way more than just set up an app. When you finish this tutorial you will have a very stable development environment complete with automated server reloads and testing already setup. Pretty sweet right?
 
