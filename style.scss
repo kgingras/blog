@@ -204,6 +204,8 @@ img {
   max-width:350px;
   @include mobile {
     padding:0;
+    width:100%;
+    max-width: 10000px;
   }
 }
 
@@ -387,6 +389,7 @@ cursor: pointer;
     width:33.3333%;
     margin-bottom:15px;
     padding-bottom:15px;
+    text-align: center;
   }
 }
 
