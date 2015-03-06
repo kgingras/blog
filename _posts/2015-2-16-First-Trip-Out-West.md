@@ -23,6 +23,32 @@ I got in pretty late. This was not ideal as I would start work the next day. The
 
 I think I walked around the block before checking in. The exciting energy that San Francisco gives off really hit me immediately. It's all true about San Francisco, Palm Trees, Trolley Cars, and hills, they were all there.
 
-##First Day at Weebly
+##Working at Weebly
 
-The Weebly office was incredible, but even more incredible was the culture. 
+The Weebly office was incredible, but even more incredible was the culture. The people at Weebly were very welcoming and hospitable. They were also not foreign the the idea of a stranger working next to them for a few days. 
+
+I was informed and later experienced first hand, how frequent trial candidates came into the Weebly office. During my time at Weebly, I saw roughly ten other people taking the same tour I did. It's safe to say Weebly is growing at an incredible pace. 
+
+The office was like nothing I had ever seen before. Awesome tech everywhere, analytics monitors, and almost any snack you could possibly want. I was blown away. Given I was working in the engineering region of the office, most engineers were set up with two large Mac monitors filled with sublime. I wish I would've had a chance to look at some Weebly code while I was there but oh well. 
+
+##The Project
+
+Right after the initial tour had ended, I was given a brief intro the project and was off to the races! It was interesting work and definitely kept me busy for my remaining time at Weebly. I won't give away the details of the project but if you found this blog post in your search for information, you've most likely already found what you were looking for :)
+
+During my time in the office I got the chance to meet some incredible people, see some awesome sights, and consume a large amount of free food which are the critical points of a good time in my book. If you're looking for a job intern/full-time, Weebly is a great place to work.
+
+##The After-Party
+
+After finalizing the last changes to my project, I walked down the boardroom ready to present. I remember that walk, I felt like an astronaut on Apollo 13 walking to the Saturn V rocket. That metaphor receives a low-grade, anyway I presented an it went somewhat well.
+
+Turns out that Weebly's allegedly semi-pro softball team was playing in the championship game that night. This team had been together since the beginning of the company. I got a ride with one of the co-founders Dan (who was awesome) to the softball game. 
+
+The Game was a nail-bitter and despite an incredible rally by the Weebly team they fell to team GloboGym by a substantial margin. They did get a sizable trophy which made the loss even sweeter. 
+
+##Heading Back Home
+
+My trip to San Francisco was capped by a 8AM flight which I woke up at 4:30 for. Regardless, it was an incredible experience that I was blessed to be given. I much preferred it to a the infamous 30min technical interview. I do understand that kids can't take a week vacation for every company they pursue, so it's an interesting debacle. 
+
+What I like about the trial project is not only did it test technical skills in a relaxed environment, it forced me to make realistic goals for what I wanted to accomplish in my alloted time. It will be interesting to see how the developer interview is changes in the future.
+
+Go Team.
