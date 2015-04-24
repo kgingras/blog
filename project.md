@@ -12,6 +12,12 @@ I have a laptop and connection to the Internet! This is what I've been able to c
 Node.js, ExpressJS, Heroku, Moment.js, Pikaday.js
 ```
 
+[Stumped Landing Page](http://stumped.io) - Landing Page for the Stumped iOS application.
+
+```
+AngularJS, Github Pages, jQuery, Bootstrap
+```
+
 [DiscoCloud](http://discocloud.herokuapp.com) - Ever heard of a **Silent Disco**? now you and your friends can share music and the beat! Using real-time web frameworks, now you can host a silent disco with friends even if you're miles away. Hosted on Heroku.
 
 ```
