@@ -176,8 +176,7 @@ img {
   width: 23%;
   position: fixed;
   height: 100vh;
-  border-right:1px solid #e1e1e1;
-  background: #f9f9f9;
+  background: #fff;
   @include mobile {
     position:relative;
     height:auto;
