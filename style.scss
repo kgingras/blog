@@ -403,7 +403,6 @@ color: rgb(58, 58, 60);
 cursor: pointer;
 -webkit-transition: .2s ease;
 transition: .2s ease;
-visibility:hidden;
   @include mobile {
     display: none;
   }
