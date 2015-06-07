@@ -186,6 +186,7 @@ img {
   height: 100vh;
   background: #fff;
   border-right:1px solid #e1e1e1;
+  display: table;
   @include mobile {
     position:relative;
     height:auto;
@@ -210,6 +211,8 @@ img {
 .right {
   padding: 2% 15%;
   max-width:350px;
+  display: table-cell;
+  vertical-align: middle;
   @include mobile {
     padding:0;
     width:100%;
@@ -370,7 +373,6 @@ nav {
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
   display:none;
-
 }
 
 footer {
@@ -393,6 +395,7 @@ color: rgb(58, 58, 60);
 cursor: pointer;
 -webkit-transition: .2s ease;
 transition: .2s ease;
+display: none;
   @include mobile {
     display: none;
   }
@@ -400,6 +403,7 @@ transition: .2s ease;
 
 .linkk:hover {
   opacity: .7;
+  text-decoration: underline;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
