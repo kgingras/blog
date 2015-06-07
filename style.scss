@@ -188,9 +188,10 @@ img {
   border-right:1px solid #e1e1e1;
   display: table;
 
+
   &:hover {
     .linkk {
-      display: block;
+      visibility: visible;
     }
   }
 
@@ -402,7 +403,7 @@ color: rgb(58, 58, 60);
 cursor: pointer;
 -webkit-transition: .2s ease;
 transition: .2s ease;
-display: none;
+visibility:hidden;
   @include mobile {
     display: none;
   }
