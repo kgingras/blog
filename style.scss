@@ -387,18 +387,19 @@ text-align: left;
 padding: 3px 25px;
 margin-bottom: 1px;
 text-decoration: none;
-font-weight: 700;
-font-size: 30px;
+font-weight: 300;
+font-size: 25px;
 color: rgb(58, 58, 60);
 cursor: pointer;
+-webkit-transition: .2s ease;
+transition: .2s ease;
   @include mobile {
     display: none;
   }
 }
 
 .linkk:hover {
-  background:#4F4F4F;
-  color: #fff;
+  opacity: .7;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
