@@ -35,11 +35,11 @@ body {
   }
 
 .adsbygoogle {
-  height:90px;
+  height: 50px;
   position: absolute;
-  top: 0;
-  right:0;
-  left:0;
+  bottom: 10px;
+  right: 10px;
+  left: 10px;
 }
 
 
@@ -184,7 +184,7 @@ img {
   width: 23%;
   position: fixed;
   height: 100vh;
-  background: #fff;
+  background: #34495e;
   @include mobile {
     position:relative;
     height:auto;
