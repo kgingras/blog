@@ -184,7 +184,8 @@ img {
   width: 23%;
   position: fixed;
   height: 100vh;
-  background: #34495e;
+  background: #fff;
+  border-right:1px solid #e1e1e1;
   @include mobile {
     position:relative;
     height:auto;
