@@ -187,6 +187,13 @@ img {
   background: #fff;
   border-right:1px solid #e1e1e1;
   display: table;
+
+  &:hover {
+    .linkk {
+      display: block;
+    }
+  }
+
   @include mobile {
     position:relative;
     height:auto;
