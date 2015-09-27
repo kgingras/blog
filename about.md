@@ -12,9 +12,9 @@ I believe that anyone can code, and like [Settlers of Catan](http://catan.com), 
 
 ##Organizations
 
-[Wolverine Soft], a very diverse group on campus that specializes in designing and developing all types of games. I am joining this semester and very excited!
+**Wolverine Soft**, a very diverse group on campus that specializes in designing and developing all types of games. I am joining this semester and very excited!
 
-[Student Food co.], A small group that brings affordable produce to students on the Central Campus Diag.
+**Student Food co.**, A small group that brings affordable produce to students on the Central Campus Diag.
 
 ##Hobbies
 

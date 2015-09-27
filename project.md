@@ -18,7 +18,7 @@ HTML, CSS
 C++
 ```
 
-[Pokemon] In my game design class we had a Pokemon project. The goal was to recreate the "classic level" of pokemon. Because I love pokemon, I took it further by creating the initial questline and allowing pokemon to evolve. This is still a work in progress and I will try to have it on the site soon.
+**Pokemon** In my game design class we had a Pokemon project. The goal was to recreate the "classic level" of pokemon. Because I love pokemon, I took it further by creating the initial questline and allowing pokemon to evolve. This is still a work in progress and I will try to have it on the site soon.
 
 ```
 Unity, C#
@@ -28,4 +28,4 @@ Unity, C#
 
 * **Programmer, College of Pharmacy**, [Tools for Modeling and Analysis of Cell Penetrating Molecules](http://cellpm.org/) - Throughout the summer of 2015 I worked to create CellPM.org and find  bugs in the Membranome database. I gained more experience in using HTML, CSS, C++, SQL, and some exposure to PHP.
 
-* **Cherry Crew Leader**, [Cherry Ke Inc.] - While this work was suprisingly non-technical, working 12 hour night shifts in a cherry orchard 6 days a week gave me true appreciation for hard work. I met some incredible people and gained the most valuable leadership experience as a yound high-school student.
+* **Cherry Crew Leader**, **Cherry Ke Inc.** - While this work was suprisingly non-technical, working 12 hour night shifts in a cherry orchard 6 days a week gave me true appreciation for hard work. I met some incredible people and gained the most valuable leadership experience as a yound high-school student.
