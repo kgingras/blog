@@ -6,46 +6,26 @@ permalink: /project/
 
 I have a laptop and connection to the Internet! This is what I've been able to create so far.
 
-[TimeStack](http://timestack.co) - A visual due-date based to-do manager. Started at MHacks IV.
+[Tools for Modeling and Analysis of Cell Penetrating Molecules](http://cellpm.org/) - An online tool for... well modeling and analysis of Cell Penetrating Molecules. I worked with Professors Lomize and Pogozheva to design and create the website. Please don't ask me in depth about the proteins. I'm just the Dev guy!
 
 ```
-Node.js, ExpressJS, Heroku, Moment.js, Pikaday.js
+HTML, CSS
 ```
 
-[Stumped Landing Page](http://stumped.io) - Landing Page for the Stumped iOS application.
+[Membranome](http://membranome.org/) - In addition to creating CellPM.org, I also worked on the Membranome database. I wrote programs to analyze the 6000+ proteins and compare them to the output of 3 other prediction tools. The results were able to spot gaps of missing information and show some bugs in the Prediction software.
 
 ```
-AngularJS, Github Pages, jQuery, Bootstrap
+C++
 ```
 
-[DiscoCloud](http://discocloud.herokuapp.com) - Ever heard of a **Silent Disco**? now you and your friends can share music and the beat! Using real-time web frameworks, now you can host a silent disco with friends even if you're miles away. Hosted on Heroku.
+[Pokemon] In my game design class we had a Pokemon project. The goal was to recreate the "classic level" of pokemon. Because I love pokemon, I took it further by creating the initial questline and allowing pokemon to evolve. This is still a work in progress and I will try to have it on the site soon.
 
 ```
-SoundCloud API, Node.js, ExpressJS, Socket.io, AngularJS, Heroku
-```
-
-[BlitzBlock](http://goo.gl/zqblW9) - A fun fast paced tapping native Android game. My first major project in my life, this game incorporated fun aspects from games I had played before into an exciting game that features medals, high-scores, and other fun elements.
-
-```
-Android Studio IDE, Android animations
-```
-
-[Delivice](https://delivice.github.io) - A landing page I created for a local Ann Arbor startup providing grocery delivery for students and residence. I did all the design and development associated with the page as well as the icon design. They're a great group of people and I hope to do more with them in the future.
-
-```
-HTML5, CSS3, jQuery, JS
-```
-
-[Michigan Today](http://goo.gl/zqblW9) - My first ever application created. Built at my first hackathon. It was extremely simple but showed me the unlimited possibilities that come from development. It inspired me to learn more and work harder.
-
-```
-Eclipse IDE, Android, APIs
+Unity, C#
 ```
 
 ##Work Experience
 
-* **Lead Web Developer**, [Delivice](http://delivice.com) - Designed and Developed landing page, currently working on migrating existing web application to a new platform.
+* **Programmer, College of Pharmacy**, [Tools for Modeling and Analysis of Cell Penetrating Molecules](http://cellpm.org/) - Throughout the summer of 2015 I worked to create CellPM.org and find  bugs in the Membranome database. I gained more experience in using HTML, CSS, C++, SQL, and some exposure to PHP.
 
-* **Web Developer Intern**, [Hagerty Collector Car Insurance](http://hagerty.com) - At Hagerty I developed an automated testing framework and application using Selenium-WebDriver that is used to this day. It was a great opportunity to see Software Development in a business centered environment and work with amazingly talented Developers and QA engineers.
-
-* **Cook**, [That'sa Pizza](http://thatsapizzami.com) - While this work was suprisingly non-technical, working in a pizza kitchen gave me a true appreciation for hard work and allowed me to meet incredible and inspirational people who have affected my life for the better in so many ways.
+* **Cherry Crew Leader**, [Cherry Ke Inc.] - While this work was suprisingly non-technical, working 12 hour night shifts in a cherry orchard 6 days a week gave me true appreciation for hard work. I met some incredible people and gained the most valuable leadership experience as a yound high-school student.

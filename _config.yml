@@ -18,19 +18,19 @@ avatar: http://kgingras.github.io/Images/blognameimg.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: wilsoda@umich.edu
+  email: kgingras@umich.edu
   facebook: 
   flickr: 
-  github: daniellytle
+  github: kgingras
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: danielguywilson
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: dingodanny
+disqus: kg
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-53645845-1
