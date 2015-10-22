@@ -18,7 +18,13 @@ HTML, CSS
 C++
 ```
 
-**Pokemon** In my game design class we had a Pokemon project. The goal was to recreate the "classic level" of pokemon. Because I love pokemon, I took it further by creating the initial questline and allowing pokemon to evolve. This is still a work in progress and I will try to have it on the site soon.
+[Pixel Survivor](http://kgingras.github.io/PixelSurvivor/PixelSurvivor) Pixel Survivor is my attempt to rapidly prototype a new game mechanic. The player must destroy or "pixelate" the environment around him with his light cannon to survive against constant waves of enemies. This is my first time creating a Firt Person Shooter and I had lot of fun making it and learning new features of Unity.
+```
+Unity, C#
+```
+
+
+[Pokemon](http://kgingras.github.io/Pokemon/PokemonFinalWebBuild/PokemonFinal) In my game design class we had a Pokemon project. The goal was to recreate the "classic level" of pokemon. Because I love pokemon, I took it further by creating the initial questline and allowing pokemon to evolve. This is still a work in progress and I will try to have it on the site soon.
 
 ```
 Unity, C#
