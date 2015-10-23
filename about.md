@@ -6,7 +6,7 @@ permalink: /about/
 
 **What's there to know about me?** Well, I love code, I love code that WORKS, I love sports, I love games and I love how games can deliver incredible experiences. That's a lot of loves you say? Well, I am a passionate guy.
 
-Technically speaking, I am a from [Traverse City, MI](http://traversecity.com) who wants to change the world through technology. I am constantly developing projects on my own and with others while I study Computer Science at the [University of Michigan](http://umich.edu).
+Technically speaking, I am a guy from [Traverse City, MI](http://traversecity.com) who wants to change the world through technology. I am constantly developing projects on my own and with others while I study Computer Science at the [University of Michigan](http://umich.edu).
 
 I believe that anyone can code, and like [Settlers of Catan](http://catan.com), everyone should at least **try it**. I write this [Blog](http://kgingras.github.io/blog/) in hopes of helping, encouraging, and maybe inspiring those making their way down the path I took. 
 
