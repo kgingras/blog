@@ -1,4 +1,4 @@
-# The Official Blog of your boy Daniel Wilson
+# The Official Blog of Keith Gingras
 Github and Jekyll, check it out
 
 
