@@ -7,13 +7,13 @@ permalink: /games/
 
 ##WizardBall
 
-**Team Beetleborg presents WizardBall, a twin-stick style sports game similar to hockey. Players control wizards and massive spectral hands to throw the ball and other players. WizardBall is a cross between the MOBA genre and sports. Find the WizardBall trailer [here](https://www.youtube.com/watch?v=9yQ9mQQl8C8) 
+Team Beetleborg presents WizardBall, a twin-stick style sports game similar to hockey. Players control wizards and massive spectral hands to throw the ball and other players. WizardBall is a cross between the MOBA genre and sports. Find the WizardBall trailer [here](https://www.youtube.com/watch?v=9yQ9mQQl8C8) 
 
-![WB prototype]({{ site.url }}/images/WBprotoype.PNG)
+![WB prototype]({{ site.url }}/blog/images/WBprotoype.png)
 
 ##Kaiju
 
-**I was recently given the opportunity to develop with an Oculus Rift DK2. Working with Team Beetleborg we imagined the game Kaiju, inspired by Pacific Rim. We wanted to create the experience where the player is the monster who terrorizes the city by controlling everything with the Oculus. The prototype will be available soon to play.
+I was recently given the opportunity to develop with an Oculus Rift DK2. Working with Team Beetleborg we imagined the game Kaiju, inspired by Pacific Rim. We wanted to create the experience where the player is the monster who terrorizes the city by controlling everything with the Oculus. The prototype will be available soon to play.
 
 ##Pixel Survivor
 
