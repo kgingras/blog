@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Thank You Wilsons!
-permalink: /thankyou/
+title: Games
+permalink: /games/
 ---
 
-A big thank you to the Wilson brothers! Patrick and Dan Wilson have been so help with my transition into Computer Science. I am so much happier doing something that I love now. They have inspired and helped me along the way. It has been 2 years jam packed with everything Computer Science. You've helped me start projects and learn many new things.
+**The creation of a game doesn't just happen**. Each game starts out as a prototype. When the WizardBall prototype was finished we didn't know the potential of what the product could be. Team Beetleborg knew it would be easy to learn with naturally competitive gameplay.
+
+
