@@ -1,7 +1,6 @@
 ---
 layout: post
-title: WizardBall: the creation of one of the first arena style sports games 
-Team Beetleborg
+title: WizardBall: the creation of one of the first arena style sports games by Team BeetleBorg
 tags:
 - code
 ---
