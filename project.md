@@ -18,7 +18,7 @@ HTML, CSS
 C++
 ```
 
-[Pixel Survivor](http://kgingras.github.io/PixelSurvivor/PixelSurvivor) Pixel Survivor is my attempt to rapidly prototype a new game mechanic. The player must destroy or "pixelate" the environment around him with his light cannon to survive against constant waves of enemies. This is my first time creating a Firt Person Shooter and I had lot of fun making it and learning new features of Unity.
+[Pixel Survivor](http://kgingras.github.io/PixelSurvivor/PixelSurvivor) is my attempt to rapidly prototype a new game mechanic. The player must destroy or "pixelate" the environment around him with his light cannon to survive against constant waves of enemies. This is my first time creating a Firt Person Shooter and I had lot of fun making it and learning new features of Unity.
 ```
 Unity, C#
 ```
