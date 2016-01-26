@@ -9,7 +9,7 @@ permalink: /games/
 
 Team Beetleborg presents WizardBall, a twin-stick style sports game similar to hockey. Players control wizards and massive spectral hands to throw the ball and other players. WizardBall is a cross between the MOBA genre and sports. Find the WizardBall trailer [here](https://www.youtube.com/watch?v=9yQ9mQQl8C8) 
 
-![WB prototype]({{ site.url }}/blog/tree/gh-pages/images/WBprotoype.png)
+![WB prototype](https://github.com/kgingras/blog/images/WBprototype.PNG)
 
 ##Kaiju
 
