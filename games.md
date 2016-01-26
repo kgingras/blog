@@ -21,9 +21,21 @@ A simple arcade style game turned into a sports game with several layers of dept
 
 ![WizardBallCourtyard](https://kgingras.github.io/Images/WBforest.PNG)
 
+##Bubble
+
+Bubble was a project designed to combine many different technologies and people to create an experience targeted to help children with ASD, Autism Spectrum Disorder.  My team decided to make a bubble popping game to help enhance proprioception and communication in Children. There were many design challenges our team had to overcome in order to accomplish our goal. Luckily, I had just started to learn Unity. I was able to help make the initial game and UI. Later on when I had more experience with Unity, I was able to make some game mechanics to help target some of the symptoms of ASD. 
+
+![BubbleInside](https://kgingras.github.io/Images/BubbleInside.JPG)
+
+The entire project combined Unity, Kinect V2, Gimp, and the architecture students's knit structure. One valuable lesson I learned was how to work with another team who's deadlines are drastically different. One thing I wish my software team had more of was testing with children with ASD. Even though we didn't have as much testing as we would have like our team made a product that all age groups enjoyed to play with.
+
+![BubbleInside](https://kgingras.github.io/Images/BubbleOutside.JPG)
+
 ##Kaiju
 
 I was recently given the opportunity to develop with an Oculus Rift DK2. Working with Team Beetleborg we imagined the game Kaiju, inspired by Pacific Rim. We wanted to create the experience where the player is the monster who terrorizes the city by controlling everything with the Oculus. The prototype will be available soon to play.
+
+
 
 ##Pixel Survivor
 
